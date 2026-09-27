@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Jazz Picks</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Jazz Picks">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon.png">
+<meta name="theme-color" content="#0e0e0e">
+<script>try{const t=JSON.parse(localStorage.getItem("theme"));if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}</script>
+<style>
+:root{--bg:#fafaf8;--fg:#141414;--mute:#8a8a86;--faint:#c9c9c4;--line:#e6e6e1;--cell:#fff;--sel:#141414;--selfg:#fff;--new:#e2572b;--star:#e8a317;
+  --rs:#c8102e;--bn:#1f4fd8;--jc:#1f8a4c;--cf:#8b3fd9}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#0e0e0e;--fg:#ededea;--mute:#7a7a73;--faint:#3a3a36;--line:#1f1f1d;--cell:#151514;--sel:#ededea;--selfg:#0e0e0e;
+  --new:#ff7a4d;--star:#ffc23d;--rs:#ff4d5e;--bn:#5b8cff;--jc:#3ecf7a;--cf:#b57bff}}
+:root[data-theme=dark]{--bg:#0e0e0e;--fg:#ededea;--mute:#7a7a73;--faint:#3a3a36;--line:#1f1f1d;--cell:#151514;--sel:#ededea;--selfg:#0e0e0e;
+  --new:#ff7a4d;--star:#ffc23d;--rs:#ff4d5e;--bn:#5b8cff;--jc:#3ecf7a;--cf:#b57bff}
+.th{width:36px;height:36px;border-radius:50%;font-size:17px;color:var(--mute);display:flex;align-items:center;justify-content:center}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--bg);color:var(--fg);font:15px/1.35 -apple-system,BlinkMacSystemFont,"Inter",system-ui,sans-serif;
+  padding:0 12px calc(env(safe-area-inset-bottom) + 40px);max-width:620px;margin:0 auto;-webkit-font-smoothing:antialiased}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;-webkit-tap-highlight-color:transparent}
+.top{position:sticky;top:0;z-index:5;background:var(--bg);margin:0 -12px;padding:calc(env(safe-area-inset-top) + 10px) 16px 6px}
+header{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px}
+.mh{display:flex;align-items:baseline;gap:8px}
+h1{font-size:24px;font-weight:650;letter-spacing:-.02em}
+.yr{color:var(--mute);font-size:24px;font-weight:400}
+.nav{display:flex;gap:2px}
+.nav button{width:36px;height:36px;border-radius:50%;font-size:20px;color:var(--mute)}
+.nav button:disabled{opacity:.25}
+.chips{display:flex;gap:6px;margin:0 0 10px;flex-wrap:wrap}
+.chip{border:1px solid var(--line);color:var(--mute);font-size:13px;padding:5px 11px;border-radius:99px;display:flex;align-items:center;gap:6px}
+.chip i{width:7px;height:7px;border-radius:50%;background:var(--vc);display:inline-block}
+.chip.on{color:var(--fg);border-color:var(--fg)}
+.chip.v{color:var(--fg);border-color:color-mix(in srgb,var(--vc) 45%,transparent);background:color-mix(in srgb,var(--vc) 10%,transparent)}
+.chip.v.off{color:var(--mute);border-color:var(--line);background:none;text-decoration:line-through}
+.chip.v.off i{background:var(--faint)}
+.chip.star{--vc:var(--star)}
+.rs{--vc:var(--rs)}.bn{--vc:var(--bn)}.jc{--vc:var(--jc)}.cf{--vc:var(--cf)}
+.pill.cf,.bar.cf{font-weight:650}.ev.cf{box-shadow:inset 0 0 0 1px color-mix(in srgb,var(--cf) 40%,transparent)}
+.dows{display:grid;grid-template-columns:repeat(7,1fr);gap:3px}
+.ml{grid-column:1/-1;font-size:13px;font-weight:650;letter-spacing:.08em;text-transform:uppercase;color:var(--mute);padding:14px 4px 4px}
+.dows span{text-align:center;font-size:11px;color:var(--mute);letter-spacing:.05em}
+.grid{display:grid;grid-template-columns:repeat(7,1fr);gap:3px}
+.c{background:var(--cell);border-radius:8px;min-height:74px;padding:5px 4px 4px;text-align:left;display:flex;flex-direction:column;gap:2px;overflow:hidden;position:relative;min-width:0}
+.c.out{background:none}
+.c.past{opacity:.35}
+.c .n{font-size:12px;font-weight:600;font-variant-numeric:tabular-nums;padding-left:2px;display:flex;justify-content:space-between;align-items:center}
+.c.today .n span{background:var(--new);color:#fff;border-radius:99px;padding:0 5px;margin-left:-3px}
+.c.sel{background:var(--sel);color:var(--selfg)}
+.c.sel .bar{color:var(--selfg)}
+.bar{font-size:9.5px;line-height:1.2;white-space:nowrap;overflow:hidden;background:color-mix(in srgb,var(--vc) 18%,transparent);border-radius:3px;padding:0 3px;color:var(--fg);opacity:.9}
+.bar.st{font-weight:700}
+.more{font-size:9.5px;color:var(--mute);padding-left:5px}
+.c.sel .more{color:var(--selfg);opacity:.7}
+.sd{font-size:9px;color:var(--star)}
+.sheet{position:fixed;left:0;right:0;bottom:0;z-index:10;background:var(--bg);border-top:1px solid var(--line);border-radius:16px 16px 0 0;
+  box-shadow:0 -8px 30px rgba(0,0,0,.18);max-height:62vh;overflow:auto;padding:8px 16px calc(env(safe-area-inset-bottom) + 18px);transform:translateY(105%);transition:transform .22s ease}
+.sheet.open{transform:none}
+.sheet .inner{max-width:596px;margin:0 auto}
+.grab{width:36px;height:4px;border-radius:2px;background:var(--faint);margin:2px auto 10px}
+.dhrow{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.x{color:var(--mute);font-size:22px;width:36px;height:36px}
+.dh{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--mute)}
+.ev{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:start;padding:10px 0 10px 14px;margin-bottom:8px;background:color-mix(in srgb,var(--vc) 12%,var(--cell));border-radius:12px}
+.ev a{color:inherit;text-decoration:none;display:block}
+.t{font-weight:550;font-size:16px}
+.m{color:var(--mute);font-size:13px;margin-top:3px}
+.vn{color:var(--vc);font-weight:550}
+.new{color:var(--new);font-size:10.5px;font-weight:700;letter-spacing:.06em;margin-left:6px;vertical-align:2px}
+.soon{color:var(--bn)}
+.acts{display:flex;flex-direction:column;align-items:center;gap:2px;padding-right:6px}
+.sb{width:40px;height:40px;border-radius:50%;font-size:22px;color:var(--faint);line-height:1}
+.sb.on{color:var(--star)}
+.cal{font-size:11px;color:var(--mute);text-decoration:underline;text-underline-offset:2px;padding:2px}
+.empty{color:var(--mute);padding:16px 0}
+footer{margin-top:30px;color:var(--mute);font-size:12px;line-height:1.6;padding:0 4px}
+footer a{color:var(--fg)}
+.wk{background:var(--cell);border-radius:14px;padding:4px 10px;margin-bottom:10px}
+.dr{display:grid;grid-template-columns:42px 1fr;gap:8px;align-items:start;padding:7px 0;border-top:1px solid var(--line);width:100%;text-align:left}
+.dr:first-child{border-top:0}
+.dr.empty-d{padding:4px 0}
+.dr.empty-d .dl{opacity:.45}
+.dr.past{opacity:.35}
+.dl{display:flex;flex-direction:column;align-items:center;line-height:1.1;padding-top:3px}
+.dl b{font-size:18px;font-weight:650;font-variant-numeric:tabular-nums}
+.dl small{font-size:10px;color:var(--mute);text-transform:uppercase;letter-spacing:.06em}
+.dr.today .dl b{color:var(--new)}
+.dr.sel{background:var(--bg);border-radius:10px}
+.pills{display:flex;flex-wrap:wrap;gap:5px;min-width:0}
+.pill{font-size:13px;line-height:1.25;padding:5px 10px;border-radius:8px;background:color-mix(in srgb,var(--vc) 15%,transparent);max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pill.st{background:color-mix(in srgb,var(--vc) 26%,transparent);font-weight:650}
+.pill.st::before{content:"★ ";color:var(--star)}
+.pill em{font-style:normal;color:var(--mute);font-size:11.5px;margin-left:5px}
+.ml.m2{padding:16px 4px 6px}
+@media (max-width:599px){.dows{display:none}}
+@media (max-width:380px){.bar{font-size:8.5px}.c{min-height:66px}}
+</style>
+</head>
+<body>
+<div class="top">
+<header><div class="mh"><h1 id="mon"></h1><span class="yr" id="yr"></span></div><button class="th" id="th" aria-label="Theme"></button></header>
+<div class="chips" id="chips"></div>
+<div class="dows"><span>M</span><span>T</span><span>W</span><span>T</span><span>F</span><span>S</span><span>S</span></div>
+</div>
+<div class="grid" id="grid"></div>
+<section class="sheet" id="day"><div class="inner" id="dayin"></div></section>
+<footer id="foot"></footer>
+<script>
+const VEN={"Ronnie Scott's":{k:'rs',s:"Ronnie's"},"Blue Note":{k:'bn',s:'Blue Note'},"Jazz Cafe":{k:'jc',s:'Jazz Cafe'}};
+const LOC={"Ronnie Scott's":"Ronnie Scott's, 47 Frith St, London W1D 4HT","Blue Note":"Blue Note London, 5 St Martin's Lane, London WC2N 4AL","Jazz Cafe":"Jazz Cafe, 5 Parkway, London NW1 7PG"};
+const ls={get(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+const TH={auto:['◐','Theme: auto'],light:['☀','Theme: light'],dark:['☾','Theme: dark']};
+function theme(t){const r=document.documentElement;t==='auto'?delete r.dataset.theme:r.dataset.theme=t;ls.set('theme',t);
+  const b=document.getElementById('th');b.textContent=TH[t][0];b.title=b.ariaLabel=TH[t][1];
+  const dk=t==='dark'||(t==='auto'&&matchMedia('(prefers-color-scheme:dark)').matches);
+  document.querySelector('meta[name=theme-color]').content=dk?'#0e0e0e':'#fafaf8'}
+theme(ls.get('theme','auto'));
+document.getElementById('th').onclick=()=>{const o=['auto','light','dark'];theme(o[(o.indexOf(ls.get('theme','auto'))+1)%3])};
+let DATA=null, STARS=new Set(ls.get('stars',[])), HIDE=new Set(ls.get('hide',[])), F=ls.get('mode','all'), CUR=null, SEL=null;
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const iso=d=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+const TODAY=iso(new Date());
+const isNew=p=>p.first_seen&&(Date.now()-new Date(p.first_seen))<7*864e5;
+const isCF=p=>/cosmic fusion/i.test(p.title);
+const vk=p=>isCF(p)?'cf':VEN[p.venue].k;
+const short=t=>t.replace(/^Late Late (Show|Soul Sessions|Electronic)( Upstairs)?( at Ronnie's)? (with|hosted by|presented by) /i,'').replace(/^Robert Glasper with Special Guest /,'Glasper + ');
+
+function visible(){return DATA.picks.filter(p=>!HIDE.has(p.venue)&&(F==='all'||(F==='star'?STARS.has(p.id):F==='cosmic'?isCF(p):F==='new'?isNew(p):true)))}
+function byDate(ps){const m={};ps.forEach(p=>(m[p.date]=m[p.date]||[]).push(p));return m}
+
+function chips(){
+  const nS=DATA.picks.filter(p=>STARS.has(p.id)).length, nN=DATA.picks.filter(isNew).length;
+  const c=document.getElementById('chips');
+  let h=Object.entries(VEN).map(([v,o])=>`<button class="chip v ${o.k} ${HIDE.has(v)?'off':''}" data-v="${esc(v)}" aria-pressed="${!HIDE.has(v)}"><i></i>${esc(o.s)}</button>`).join('');
+  const modes=[['cosmic','Cosmic Fusion','cf'],['star',`★ ${nS||''}`.trim(),'star']];if(nN)modes.push(['new',`New ${nN}`,'']);
+  h+=modes.map(([k,l,cl])=>`<button class="chip ${cl} ${F===k?'on':''}" data-k="${k}">${cl==='cf'?'<i></i>':''}${esc(l)}</button>`).join('');
+  c.innerHTML=h;
+  c.querySelectorAll('[data-v]').forEach(b=>b.onclick=()=>{const v=b.dataset.v;HIDE.has(v)?HIDE.delete(v):HIDE.add(v);ls.set('hide',[...HIDE]);render()});
+  c.querySelectorAll('[data-k]').forEach(b=>b.onclick=()=>{F=F===b.dataset.k?'all':b.dataset.k;ls.set('mode',F);render()});
+}
+
+function grid(){ if(window.innerWidth<600) return rows(); return cal(); }
+function dayEvs(bd,k){const evs=(bd[k]||[]).slice().sort((a,b)=>(STARS.has(b.id)-STARS.has(a.id))||a.time.localeCompare(b.time));
+  const u=[],seen=new Set();for(const p of evs){const t=p.venue+p.title;if(!seen.has(t)){seen.add(t);u.push(p)}}return u}
+function rows(){
+  const bd=byDate(visible());
+  const now=new Date(TODAY+'T12:00'), d=new Date(now);d.setDate(now.getDate()-((now.getDay()+6)%7));
+  const last=DATA.picks.reduce((a,p)=>p.date>a?p.date:a,TODAY);
+  let h='',prevMonth=-1;
+  while(iso(d)<=last){
+    if(d.getMonth()!==prevMonth){h+=`<div class="ml m2" data-m="${d.getFullYear()}-${d.getMonth()}">${d.toLocaleDateString('en-GB',{month:'long',year:'numeric'})}</div>`;prevMonth=d.getMonth()}
+    h+='<div class="wk">';
+    for(let i=0;i<7;i++){
+      const k=iso(d), u=dayEvs(bd,k);
+      if(k<TODAY){d.setDate(d.getDate()+1);continue}
+      const times=p=>{const ts=(bd[k]||[]).filter(x=>x.venue===p.venue&&x.title===p.title).map(x=>x.time).filter(Boolean);return ts.length?`<em>${ts.join(' / ')}</em>`:''};
+      const pills=u.map(p=>`<span class="pill ${vk(p)} ${STARS.has(p.id)?'st':''}">${esc(short(p.title))}${times(p)}</span>`).join('');
+      const cls=['dr',u.length?'':'empty-d',k<TODAY?'past':'',k===TODAY?'today':'',k===SEL?'sel':''].join(' ');
+      h+=`<button class="${cls}" data-d="${k}"><div class="dl"><b>${d.getDate()}</b><small>${d.toLocaleDateString('en-GB',{weekday:'short'})}</small></div><div class="pills">${pills}</div></button>`;
+      d.setDate(d.getDate()+1);
+    }
+    h+='</div>';
+  }
+  const g=document.getElementById('grid');g.style.display='block';g.innerHTML=h;
+  g.querySelectorAll('.dr:not(.empty-d)').forEach(b=>b.onclick=()=>{SEL=SEL===b.dataset.d?null:b.dataset.d;render()});
+  watchMonth();
+}
+function cal(){
+  document.getElementById('grid').style.display='';
+  const bd=byDate(visible());
+  const now=new Date(TODAY+'T12:00'), start=new Date(now);start.setDate(now.getDate()-((now.getDay()+6)%7));
+  const last=DATA.picks.reduce((a,p)=>p.date>a?p.date:a,TODAY);
+  let h='', d=new Date(start), prevMonth=-1;
+  while(iso(d)<=last||d.getDay()!==1){
+    if(d.getDay()===1||iso(d)===iso(start)){
+      // month label row when a new month starts inside this week
+      if(d.getMonth()!==prevMonth){h+=`<div class="ml" data-m="${d.getFullYear()}-${d.getMonth()}">${d.toLocaleDateString('en-GB',{month:'long',year:'numeric'})}</div>`;prevMonth=d.getMonth()}
+    }
+    const k=iso(d);
+    const evs=(bd[k]||[]).slice().sort((a,b)=>(STARS.has(b.id)-STARS.has(a.id))||a.time.localeCompare(b.time));
+    const uniq=[];const seenT=new Set();for(const p of evs){const t=p.venue+p.title;if(!seenT.has(t)){seenT.add(t);uniq.push(p)}}
+    const hasStar=evs.some(p=>STARS.has(p.id));
+    const cls=['c',k<TODAY?'past':'',k===TODAY?'today':'',k===SEL?'sel':''].join(' ');
+    const bars=uniq.slice(0,3).map(p=>`<div class="bar ${vk(p)} ${STARS.has(p.id)?'st':''}">${esc(short(p.title))}</div>`).join('');
+    h+=`<button class="${cls}" data-d="${k}"><div class="n"><span>${d.getDate()}</span>${hasStar?'<b class="sd">★</b>':''}</div>${bars}${uniq.length>3?`<div class="more">+${uniq.length-3}</div>`:''}</button>`;
+    d.setDate(d.getDate()+1);
+  }
+  const g=document.getElementById('grid');g.innerHTML=h;
+  g.querySelectorAll('.c').forEach(b=>b.onclick=()=>{SEL=SEL===b.dataset.d?null:b.dataset.d;render()});
+  watchMonth();
+}
+let io=null;
+function watchMonth(){
+  const set=(y,m)=>{document.getElementById('mon').textContent=new Date(y,m,1).toLocaleDateString('en-GB',{month:'long'});document.getElementById('yr').textContent=y};
+  const labels=[...document.querySelectorAll('.ml')];
+  const upd=()=>{const topH=document.querySelector('.top').offsetHeight;let cur=labels[0];for(const l of labels){if(l.getBoundingClientRect().top<=topH+40)cur=l}
+    if(cur){const [y,m]=cur.dataset.m.split('-').map(Number);set(y,m)}};
+  window.onscroll=upd;upd();
+}
+
+function icsFor(p){
+  const d=p.date.replace(/-/g,''), t=(p.time||'19:00').replace(':','')+'00';
+  const e=new Date(`${p.date}T${p.time||'19:00'}:00`);e.setHours(e.getHours()+2);
+  const end=iso(e).replace(/-/g,'')+'T'+String(e.getHours()).padStart(2,'0')+String(e.getMinutes()).padStart(2,'0')+'00';
+  const x=s=>String(s).replace(/[,;\\]/g,m=>'\\'+m);
+  return ['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//jazz-picks//EN','BEGIN:VEVENT',`UID:${p.id}-star@jazz-picks`,`DTSTART;TZID=Europe/London:${d}T${t}`,`DTEND;TZID=Europe/London:${end}`,
+    `SUMMARY:${x(p.title)} · ${x(VEN[p.venue].s)}`,`LOCATION:${x(LOC[p.venue])}`,`URL:${p.url}`,`DESCRIPTION:${x(p.url)}`,'END:VEVENT','END:VCALENDAR'].join('\r\n');
+}
+
+function day(){
+  const sh=document.getElementById('day'), s=document.getElementById('dayin');
+  if(!SEL){sh.classList.remove('open');return}
+  sh.classList.add('open');
+  const evs=(byDate(visible())[SEL]||[]).sort((a,b)=>a.time.localeCompare(b.time));
+  const dt=new Date(SEL+'T12:00');
+  let h=`<div class="grab"></div><div class="dhrow"><div class="dh">${dt.toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'long'})}</div><button class="x" id="close" aria-label="Close">×</button></div>`;
+  if(!evs.length)h+=`<p class="empty">Nothing picked this day.</p>`;
+  for(const p of evs){
+    const v=VEN[p.venue], on=STARS.has(p.id);
+    const room=p.room&&p.room!=='Main Show'?' · '+esc(p.room.replace(/ at Ronnie's/,'')):'';
+    h+=`<div class="ev ${vk(p)}"><a href="${esc(p.url)}" target="_blank" rel="noopener"><div class="t">${esc(p.title)}${isNew(p)?'<span class="new">NEW</span>':''}</div>
+      <div class="m">${p.time?esc(p.time)+' · ':''}<span class="vn">${v.s}</span>${room}${p.note?` · <span class="soon">${esc(p.note)}</span>`:''}</div></a>
+      <div class="acts"><button class="sb ${on?'on':''}" data-id="${p.id}" aria-label="${on?'Unstar':'Star'}">${on?'★':'☆'}</button>${on?`<button class="cal" data-cal="${p.id}">+ Cal</button>`:''}</div></div>`;
+  }
+  s.innerHTML=h;
+  document.getElementById('close').onclick=()=>{SEL=null;render()};
+  s.querySelectorAll('.sb').forEach(b=>b.onclick=()=>{const id=b.dataset.id;STARS.has(id)?STARS.delete(id):STARS.add(id);ls.set('stars',[...STARS]);render()});
+  s.querySelectorAll('.cal').forEach(b=>b.onclick=()=>{
+    const p=DATA.picks.find(x=>x.id===b.dataset.cal);
+    const url=URL.createObjectURL(new Blob([icsFor(p)],{type:'text/calendar'}));
+    const a=document.createElement('a');a.href=url;a.download=p.title.replace(/[^\w]+/g,'-').slice(0,40)+'.ics';document.body.appendChild(a);a.click();a.remove();
+  });
+}
+
+function render(){chips();grid();day()}
+let rw=window.innerWidth;window.addEventListener('resize',()=>{if((rw<600)!==(window.innerWidth<600)){rw=window.innerWidth;if(DATA)render()}});
+
+fetch('events.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{
+  DATA=d;
+  SEL=null;
+  const u=new Date(d.updated);
+  const ics=location.href.replace(/^https?:/,'webcal:').replace(/[#?].*$/,'').replace(/[^/]*$/,'')+'calendar.ics';
+  document.getElementById('foot').innerHTML=`${d.picks.length} sets picked from ${d.checked_shows} shows. Sold-out sets hidden. Updated ${u.toLocaleDateString('en-GB',{day:'numeric',month:'short'})} ${u.toTimeString().slice(0,5)}.<br>Stars are saved on this device. <a href="${ics}">Subscribe to all picks</a>`;
+  render();
+}).catch(()=>{document.getElementById('grid').innerHTML='<p class="empty">Couldn\'t load.</p>'});
+</script>
+</body>
+</html>
