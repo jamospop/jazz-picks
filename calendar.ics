@@ -7,41 +7,74 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:84a46bcb296d@jazz-picks
-DTSTAMP:20261001T075709Z
-DTSTART;TZID=Europe/London:20261001T203000
-DTEND;TZID=Europe/London:20261001T223000
-SUMMARY:Christian McBride & Ursa Major · Ronnie Scott's
+UID:196b9d1a4caa@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261002T183000
+DTEND;TZID=Europe/London:20261002T203000
+SUMMARY:Tomorrow's Warriors: I AM WARRIOR · Jazz Cafe
 LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
 TRANSP:TRANSPARENT
-DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/christian-mcbride-ursa-major
-URL:https://www.ronniescotts.co.uk/find-a-show/christian-mcbride-ursa-major
+DESCRIPTION:An All-Star Jazz Celebration. https://thejazzcafe.com/event/tomorrows-warriors-i-am-warrior/
+URL:https://thejazzcafe.com/event/tomorrows-warriors-i-am-warrior/
 END:VEVENT
 BEGIN:VEVENT
-UID:1e59bdd6b1db@jazz-picks
-DTSTAMP:20261001T075709Z
-DTSTART;TZID=Europe/London:20261001T224500
-DTEND;TZID=Europe/London:20261002T004500
-SUMMARY:Late Late Show Upstairs with Cosmic Fusion · Ronnie Scott's
+UID:7bd087d3fbd2@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261003T170000
+DTEND;TZID=Europe/London:20261003T190000
+SUMMARY:Acantha Lang · Ronnie Scott's
 LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
 TRANSP:TRANSPARENT
-DESCRIPTION:Late Late Show Upstairs. https://www.ronniescotts.co.uk/find-a-show/cosmic-fusion-late-show
-URL:https://www.ronniescotts.co.uk/find-a-show/cosmic-fusion-late-show
+DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/acantha-lang
+URL:https://www.ronniescotts.co.uk/find-a-show/acantha-lang
 END:VEVENT
 BEGIN:VEVENT
-UID:e58b03bc1a76@jazz-picks
-DTSTAMP:20261001T075709Z
-DTSTART;TZID=Europe/London:20261001T231500
-DTEND;TZID=Europe/London:20261002T011500
-SUMMARY:Late Late Show hosted by James Copus · Ronnie Scott's
+UID:711bac4ff3f2@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261003T180000
+DTEND;TZID=Europe/London:20261003T200000
+SUMMARY:Nothing But Love - Launch Party · Jazz Cafe
 LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
 TRANSP:TRANSPARENT
-DESCRIPTION:Late Late Show. https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-james-copus
-URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-james-copus
+DESCRIPTION:United Through Music. https://thejazzcafe.com/event/nothing-but-love-launch-party/
+URL:https://thejazzcafe.com/event/nothing-but-love-launch-party/
+END:VEVENT
+BEGIN:VEVENT
+UID:0553333b0d95@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261003T190000
+DTEND;TZID=Europe/London:20261003T210000
+SUMMARY:Mark Kavuma & the Banger Factory · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/mark-kavuma-the-banger-factory-london-03-10-2026/event/23006504C2F00AD4
+URL:https://www.ticketmaster.co.uk/mark-kavuma-the-banger-factory-london-03-10-2026/event/23006504C2F00AD4
+END:VEVENT
+BEGIN:VEVENT
+UID:16718cb5699c@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261003T213000
+DTEND;TZID=Europe/London:20261003T233000
+SUMMARY:Mark Kavuma & the Banger Factory · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/mark-kavuma-the-banger-factory-london-03-10-2026/event/23006504C2F40AD6
+URL:https://www.ticketmaster.co.uk/mark-kavuma-the-banger-factory-london-03-10-2026/event/23006504C2F40AD6
+END:VEVENT
+BEGIN:VEVENT
+UID:52a51504a62c@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261003T223000
+DTEND;TZID=Europe/London:20261004T003000
+SUMMARY:Nothing But Love - After Party · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:United Through Music. https://thejazzcafe.com/event/nothing-but-love-after-party/
+URL:https://thejazzcafe.com/event/nothing-but-love-after-party/
 END:VEVENT
 BEGIN:VEVENT
 UID:2a2dd63090e6@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261005T170000
 DTEND;TZID=Europe/London:20261005T190000
 SUMMARY:Rick Simpson presents In Rainbows Revisited · Ronnie Scott's
@@ -52,7 +85,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/rick-simpson-presents-in-rainbows
 END:VEVENT
 BEGIN:VEVENT
 UID:6ae38d26cd30@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261005T173000
 DTEND;TZID=Europe/London:20261005T193000
 SUMMARY:Cédric Hanriot: Time Is Color · Ronnie Scott's
@@ -63,7 +96,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/cédric-hanriot
 END:VEVENT
 BEGIN:VEVENT
 UID:a013f69924ce@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261005T201500
 DTEND;TZID=Europe/London:20261005T221500
 SUMMARY:Rick Simpson presents In Rainbows Revisited · Ronnie Scott's
@@ -74,7 +107,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/rick-simpson-presents-in-rainbows
 END:VEVENT
 BEGIN:VEVENT
 UID:232ace9755c7@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261005T224500
 DTEND;TZID=Europe/London:20261006T004500
 SUMMARY:Late Late Soul Sessions Upstairs with SAHRA · Ronnie Scott's
@@ -85,7 +118,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/late-late-soul-sessions-sahra
 END:VEVENT
 BEGIN:VEVENT
 UID:b15853dd1d58@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261006T173000
 DTEND;TZID=Europe/London:20261006T193000
 SUMMARY:Bokani Dyer Trio · Ronnie Scott's
@@ -95,8 +128,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/bokani-dyer-tr
 URL:https://www.ronniescotts.co.uk/find-a-show/bokani-dyer-trio
 END:VEVENT
 BEGIN:VEVENT
+UID:daef97550a9f@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261006T190000
+DTEND;TZID=Europe/London:20261006T210000
+SUMMARY:DJ Krush · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Japanese Hip-Hop Wizard. https://thejazzcafe.com/event/dj-krush-4/
+URL:https://thejazzcafe.com/event/dj-krush-4/
+END:VEVENT
+BEGIN:VEVENT
 UID:6026f8138788@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261006T224500
 DTEND;TZID=Europe/London:20261007T004500
 SUMMARY:Late Late Show Upstairs with Tomorrow’s Warriors: Romarna Campbell · Ronnie Scott's
@@ -106,8 +150,19 @@ DESCRIPTION:Late Late Show Upstairs. https://www.ronniescotts.co.uk/find-a-show/
 URL:https://www.ronniescotts.co.uk/find-a-show/tomorrows-warriors-romarna-campbell
 END:VEVENT
 BEGIN:VEVENT
+UID:c98eff096034@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261007T213000
+DTEND;TZID=Europe/London:20261007T233000
+SUMMARY:Zara McFarlane · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/tomorrows-warriors-presents-zara-mcfarlane-support-london-07-10-2026/event/2300650DEF2AD2F0
+URL:https://www.ticketmaster.co.uk/tomorrows-warriors-presents-zara-mcfarlane-support-london-07-10-2026/event/2300650DEF2AD2F0
+END:VEVENT
+BEGIN:VEVENT
 UID:ccb7f6e03f2d@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261007T231500
 DTEND;TZID=Europe/London:20261008T011500
 SUMMARY:Late Late Show hosted by Mark Kavuma's Banger Factory · Ronnie Scott's
@@ -117,8 +172,19 @@ DESCRIPTION:Late Late Show. https://www.ronniescotts.co.uk/find-a-show/late-late
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-mark-kavuma
 END:VEVENT
 BEGIN:VEVENT
+UID:3a1106eae217@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261008T190000
+DTEND;TZID=Europe/London:20261008T210000
+SUMMARY:Liv East (Full Live Band) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:East London's Neo-Soul Songstress. https://thejazzcafe.com/event/liv-east-full-live-band/
+URL:https://thejazzcafe.com/event/liv-east-full-live-band/
+END:VEVENT
+BEGIN:VEVENT
 UID:619e5310396e@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261008T224500
 DTEND;TZID=Europe/London:20261009T004500
 SUMMARY:Late Late Show Upstairs with Nim Sadot · Ronnie Scott's
@@ -129,7 +195,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/late-late-upstairs-with-nim-sadot
 END:VEVENT
 BEGIN:VEVENT
 UID:afe53dbc0599@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261009T173000
 DTEND;TZID=Europe/London:20261009T193000
 SUMMARY:Greg Foat · Ronnie Scott's
@@ -139,8 +205,140 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/greg-foat
 URL:https://www.ronniescotts.co.uk/find-a-show/greg-foat
 END:VEVENT
 BEGIN:VEVENT
+UID:569c2fe9685f@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261009T183000
+DTEND;TZID=Europe/London:20261009T203000
+SUMMARY:Songs in the Key of Life - 50th Anniversary · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Celebrating Stevie Wonder's. https://thejazzcafe.com/event/songs-in-the-key-of-life-50th-anniversary-2/
+URL:https://thejazzcafe.com/event/songs-in-the-key-of-life-50th-anniversary-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:9cde2d8b7126@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261010T183000
+DTEND;TZID=Europe/London:20261010T203000
+SUMMARY:Myles Sanko · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Contemporary Soul-Jazz Storyteller. https://thejazzcafe.com/event/myles-sanko/
+URL:https://thejazzcafe.com/event/myles-sanko/
+END:VEVENT
+BEGIN:VEVENT
+UID:65abb4e758a1@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261011T213000
+DTEND;TZID=Europe/London:20261011T233000
+SUMMARY:IMEHO – An Intimate Experience with Erykah Badu · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/imeho-an-intimate-experience-with-erykah-london-11-10-2026/event/230064FD09611D74
+URL:https://www.ticketmaster.co.uk/imeho-an-intimate-experience-with-erykah-london-11-10-2026/event/230064FD09611D74
+END:VEVENT
+BEGIN:VEVENT
+UID:baf7b00a998b@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261012T190000
+DTEND;TZID=Europe/London:20261012T210000
+SUMMARY:Moses Yoofee Trio · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/moses-yoofee-trio-london-12-10-2026/event/23006515E5810EEA
+URL:https://www.ticketmaster.co.uk/moses-yoofee-trio-london-12-10-2026/event/23006515E5810EEA
+END:VEVENT
+BEGIN:VEVENT
+UID:70b8633e8d51@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261012T213000
+DTEND;TZID=Europe/London:20261012T233000
+SUMMARY:Moses Yoofee Trio · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/moses-yoofee-trio-london-12-10-2026/event/23006515E5820EEC
+URL:https://www.ticketmaster.co.uk/moses-yoofee-trio-london-12-10-2026/event/23006515E5820EEC
+END:VEVENT
+BEGIN:VEVENT
+UID:f8a37ec075d3@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261013T190000
+DTEND;TZID=Europe/London:20261013T210000
+SUMMARY:Moses Yoofee Trio · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/moses-yoofee-trio-london-13-10-2026/event/23006515E5840EF0
+URL:https://www.ticketmaster.co.uk/moses-yoofee-trio-london-13-10-2026/event/23006515E5840EF0
+END:VEVENT
+BEGIN:VEVENT
+UID:467cb3debe3d@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261013T190000
+DTEND;TZID=Europe/London:20261013T210000
+SUMMARY:Blonde Revisited (10th Anniversary) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Celebrating Frank Ocean. https://thejazzcafe.com/event/blonde-revisited-10th-anniversary-2/
+URL:https://thejazzcafe.com/event/blonde-revisited-10th-anniversary-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:7dffb9f7f43f@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261013T213000
+DTEND;TZID=Europe/London:20261013T233000
+SUMMARY:Moses Yoofee Trio · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/moses-yoofee-trio-london-13-10-2026/event/23006515E5870EF6
+URL:https://www.ticketmaster.co.uk/moses-yoofee-trio-london-13-10-2026/event/23006515E5870EF6
+END:VEVENT
+BEGIN:VEVENT
+UID:10a3f393e2d6@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261014T190000
+DTEND;TZID=Europe/London:20261014T210000
+SUMMARY:Everything Yes · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:High-Octane Jazz Fusion. https://thejazzcafe.com/event/everything-yes-3/
+URL:https://thejazzcafe.com/event/everything-yes-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:42400a9f0f3e@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261015T190000
+DTEND;TZID=Europe/London:20261015T210000
+SUMMARY:Nubya Garcia · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/nubya-garcia-london-15-10-2026/event/230064FD987D10CC
+URL:https://www.ticketmaster.co.uk/nubya-garcia-london-15-10-2026/event/230064FD987D10CC
+END:VEVENT
+BEGIN:VEVENT
+UID:897c9b26d8ff@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261015T190000
+DTEND;TZID=Europe/London:20261015T210000
+SUMMARY:Fela Kuti's Birthday · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Celebrating The Afrobeat Pioneer. https://thejazzcafe.com/event/fela-kutis-birthday-6/
+URL:https://thejazzcafe.com/event/fela-kutis-birthday-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:4ed5e422567c@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261015T213000
+DTEND;TZID=Europe/London:20261015T233000
+SUMMARY:Nubya Garcia · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/nubya-garcia-london-15-10-2026/event/230064FD987F10CE
+URL:https://www.ticketmaster.co.uk/nubya-garcia-london-15-10-2026/event/230064FD987F10CE
+END:VEVENT
+BEGIN:VEVENT
 UID:0ac5186fe05b@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261015T224500
 DTEND;TZID=Europe/London:20261016T004500
 SUMMARY:Late Late Show Upstairs with Patterns · Ronnie Scott's
@@ -151,7 +349,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-upstairs-with-patt
 END:VEVENT
 BEGIN:VEVENT
 UID:a17cdbcafb5a@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261016T170000
 DTEND;TZID=Europe/London:20261016T190000
 SUMMARY:Blue Lab Beats · Ronnie Scott's
@@ -161,8 +359,30 @@ DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/blu
 URL:https://www.ronniescotts.co.uk/find-a-show/blue-lab-beats
 END:VEVENT
 BEGIN:VEVENT
+UID:33f8914343bb@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261016T183000
+DTEND;TZID=Europe/London:20261016T203000
+SUMMARY:Matt Johnson (Jamiroquai) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Jazz-Funk Keys Wizard. https://thejazzcafe.com/event/matt-johnson-jamiroquai-4/
+URL:https://thejazzcafe.com/event/matt-johnson-jamiroquai-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:f335c8adcb34@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261016T190000
+DTEND;TZID=Europe/London:20261016T210000
+SUMMARY:Nubya Garcia · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/nubya-garcia-london-16-10-2026/event/230064FD988110D1
+URL:https://www.ticketmaster.co.uk/nubya-garcia-london-16-10-2026/event/230064FD988110D1
+END:VEVENT
+BEGIN:VEVENT
 UID:22ed749865b2@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261016T201500
 DTEND;TZID=Europe/London:20261016T221500
 SUMMARY:Blue Lab Beats · Ronnie Scott's
@@ -173,7 +393,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/blue-lab-beats
 END:VEVENT
 BEGIN:VEVENT
 UID:030e024e0f33@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261016T203000
 DTEND;TZID=Europe/London:20261016T223000
 SUMMARY:Lokkhi Terra feat. Dele Sosimi · Ronnie Scott's
@@ -183,8 +403,85 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/lokkhi-terra-f
 URL:https://www.ronniescotts.co.uk/find-a-show/lokkhi-terra-feat-dele-sosimi
 END:VEVENT
 BEGIN:VEVENT
+UID:ea4f380cb33b@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261016T213000
+DTEND;TZID=Europe/London:20261016T233000
+SUMMARY:Nubya Garcia · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/nubya-garcia-london-16-10-2026/event/230064FD988210D5
+URL:https://www.ticketmaster.co.uk/nubya-garcia-london-16-10-2026/event/230064FD988210D5
+END:VEVENT
+BEGIN:VEVENT
+UID:b0a8c2122fc7@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261017T190000
+DTEND;TZID=Europe/London:20261017T210000
+SUMMARY:Nubya Garcia · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/nubya-garcia-london-17-10-2026/event/230064FD988410D7
+URL:https://www.ticketmaster.co.uk/nubya-garcia-london-17-10-2026/event/230064FD988410D7
+END:VEVENT
+BEGIN:VEVENT
+UID:f3584cc8be06@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261017T213000
+DTEND;TZID=Europe/London:20261017T233000
+SUMMARY:Nubya Garcia · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/nubya-garcia-london-17-10-2026/event/230064FD988510DD
+URL:https://www.ticketmaster.co.uk/nubya-garcia-london-17-10-2026/event/230064FD988510DD
+END:VEVENT
+BEGIN:VEVENT
+UID:79db208c2660@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261018T190000
+DTEND;TZID=Europe/London:20261018T210000
+SUMMARY:Mike Lindup (Level 42) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Brit Funk Icon. https://thejazzcafe.com/event/mike-lindup-level-42/
+URL:https://thejazzcafe.com/event/mike-lindup-level-42/
+END:VEVENT
+BEGIN:VEVENT
+UID:618f773e1953@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261019T190000
+DTEND;TZID=Europe/London:20261019T210000
+SUMMARY:Shabaka · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/shabaka-london-19-10-2026/event/23006505D5EC0E89
+URL:https://www.ticketmaster.co.uk/shabaka-london-19-10-2026/event/23006505D5EC0E89
+END:VEVENT
+BEGIN:VEVENT
+UID:44e39c008099@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261019T190000
+DTEND;TZID=Europe/London:20261019T210000
+SUMMARY:Benziê · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Coastal Brazilian Sounds. https://thejazzcafe.com/event/benzie/
+URL:https://thejazzcafe.com/event/benzie/
+END:VEVENT
+BEGIN:VEVENT
+UID:020044433227@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261019T213000
+DTEND;TZID=Europe/London:20261019T233000
+SUMMARY:Shabaka · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/shabaka-london-19-10-2026/event/23006505D5EE0E8D
+URL:https://www.ticketmaster.co.uk/shabaka-london-19-10-2026/event/23006505D5EE0E8D
+END:VEVENT
+BEGIN:VEVENT
 UID:c2cabec73f74@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261019T224500
 DTEND;TZID=Europe/London:20261020T004500
 SUMMARY:Late Late Soul Sessions Upstairs with Imaani · Ronnie Scott's
@@ -195,7 +492,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/late-late-soul-sessions-imaani
 END:VEVENT
 BEGIN:VEVENT
 UID:cbef8c0f62d9@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261019T231500
 DTEND;TZID=Europe/London:20261020T011500
 SUMMARY:Ronnie Scott's Jazz Jam · Ronnie Scott's
@@ -205,8 +502,52 @@ DESCRIPTION:Late Late Show. https://www.ronniescotts.co.uk/find-a-show/ronnie-sc
 URL:https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1
 END:VEVENT
 BEGIN:VEVENT
+UID:d1a0a396131b@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261020T190000
+DTEND;TZID=Europe/London:20261020T210000
+SUMMARY:Shabaka · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/shabaka-london-20-10-2026/event/23006505D5F00E8F
+URL:https://www.ticketmaster.co.uk/shabaka-london-20-10-2026/event/23006505D5F00E8F
+END:VEVENT
+BEGIN:VEVENT
+UID:9541b7c696c9@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261020T213000
+DTEND;TZID=Europe/London:20261020T233000
+SUMMARY:Shabaka · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/shabaka-london-20-10-2026/event/23006505D5F30E91
+URL:https://www.ticketmaster.co.uk/shabaka-london-20-10-2026/event/23006505D5F30E91
+END:VEVENT
+BEGIN:VEVENT
+UID:7e1386bcf522@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261021T190000
+DTEND;TZID=Europe/London:20261021T210000
+SUMMARY:Masego · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/masego-london-21-10-2026/event/23006530DCDB1E90
+URL:https://www.ticketmaster.co.uk/masego-london-21-10-2026/event/23006530DCDB1E90
+END:VEVENT
+BEGIN:VEVENT
+UID:3d0c3bcf6d24@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261021T213000
+DTEND;TZID=Europe/London:20261021T233000
+SUMMARY:Masego · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/masego-london-21-10-2026/event/23006530DD8A1EA9
+URL:https://www.ticketmaster.co.uk/masego-london-21-10-2026/event/23006530DD8A1EA9
+END:VEVENT
+BEGIN:VEVENT
 UID:baf11149a214@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261021T231500
 DTEND;TZID=Europe/London:20261022T011500
 SUMMARY:Late Late Show with Nikki Yeoh's Nucleus Sessions feat. Ewan Hastie\, Miranda Radford and Special Guest · Ronnie Scott's
@@ -216,8 +557,41 @@ DESCRIPTION:Late Late Show. https://www.ronniescotts.co.uk/find-a-show/late-late
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-with-nikki-yeoh-ewan-hastie-miranda-radford
 END:VEVENT
 BEGIN:VEVENT
+UID:fbb6a853b255@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261022T190000
+DTEND;TZID=Europe/London:20261022T210000
+SUMMARY:Steam Down X Nyjo Big Band · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/steam-down-x-nyjo-big-band-london-22-10-2026/event/23006504A68C09BC
+URL:https://www.ticketmaster.co.uk/steam-down-x-nyjo-big-band-london-22-10-2026/event/23006504A68C09BC
+END:VEVENT
+BEGIN:VEVENT
+UID:3bec6e17ab89@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261022T190000
+DTEND;TZID=Europe/London:20261022T210000
+SUMMARY:Gaidaa · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Breakthrough Soul. https://thejazzcafe.com/event/gaidaa/
+URL:https://thejazzcafe.com/event/gaidaa/
+END:VEVENT
+BEGIN:VEVENT
+UID:a7a3403de911@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261022T213000
+DTEND;TZID=Europe/London:20261022T233000
+SUMMARY:Steam Down X Nyjo Big Band · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/steam-down-x-nyjo-big-band-london-22-10-2026/event/23006504A68F09C4
+URL:https://www.ticketmaster.co.uk/steam-down-x-nyjo-big-band-london-22-10-2026/event/23006504A68F09C4
+END:VEVENT
+BEGIN:VEVENT
 UID:fd14fcc0b1d1@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261022T224500
 DTEND;TZID=Europe/London:20261023T004500
 SUMMARY:Late Late Show Upstairs with Cosmic Fusion · Ronnie Scott's
@@ -228,7 +602,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/cosmic-fusion-late-show
 END:VEVENT
 BEGIN:VEVENT
 UID:7d330b4ff58a@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261023T170000
 DTEND;TZID=Europe/London:20261023T190000
 SUMMARY:AYRA featuring Janette Mason and Juliet Roberts · Ronnie Scott's
@@ -238,19 +612,30 @@ DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/ayr
 URL:https://www.ronniescotts.co.uk/find-a-show/ayra-featuring-janette-mason-and-juliet-roberts
 END:VEVENT
 BEGIN:VEVENT
-UID:ccde85b46259@jazz-picks
-DTSTAMP:20261001T075709Z
-DTSTART;TZID=Europe/London:20261023T201500
-DTEND;TZID=Europe/London:20261023T221500
-SUMMARY:AYRA featuring Janette Mason and Juliet Roberts · Ronnie Scott's
-LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+UID:6ddf3d8118b0@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261023T190000
+DTEND;TZID=Europe/London:20261023T210000
+SUMMARY:Steam Down X Nyjo Big Band · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
 TRANSP:TRANSPARENT
-DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/ayra-featuring-janette-mason-and-juliet-roberts
-URL:https://www.ronniescotts.co.uk/find-a-show/ayra-featuring-janette-mason-and-juliet-roberts
+DESCRIPTION:https://www.ticketmaster.co.uk/steam-down-x-nyjo-big-band-london-23-10-2026/event/23006504A69909C6
+URL:https://www.ticketmaster.co.uk/steam-down-x-nyjo-big-band-london-23-10-2026/event/23006504A69909C6
+END:VEVENT
+BEGIN:VEVENT
+UID:bb9c377b7f09@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261023T213000
+DTEND;TZID=Europe/London:20261023T233000
+SUMMARY:Steam Down X Nyjo Big Band · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/steam-down-x-nyjo-big-band-london-23-10-2026/event/23006504A6A309C9
+URL:https://www.ticketmaster.co.uk/steam-down-x-nyjo-big-band-london-23-10-2026/event/23006504A6A309C9
 END:VEVENT
 BEGIN:VEVENT
 UID:7a73d05fb270@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261023T231500
 DTEND;TZID=Europe/London:20261024T011500
 SUMMARY:Late Late Show hosted by TUCAN · Ronnie Scott's
@@ -261,7 +646,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-tucan
 END:VEVENT
 BEGIN:VEVENT
 UID:498381906a2b@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261024T170000
 DTEND;TZID=Europe/London:20261024T190000
 SUMMARY:Tony Momrelle · Ronnie Scott's
@@ -271,8 +656,30 @@ DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/ton
 URL:https://www.ronniescotts.co.uk/find-a-show/tony-momrelle-2
 END:VEVENT
 BEGIN:VEVENT
+UID:11963c8ea99c@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261024T183000
+DTEND;TZID=Europe/London:20261024T203000
+SUMMARY:Afriquoi (Full Live Band) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Live African Dance Music. https://thejazzcafe.com/event/afriquoi-full-live-band/
+URL:https://thejazzcafe.com/event/afriquoi-full-live-band/
+END:VEVENT
+BEGIN:VEVENT
+UID:1f29286432a6@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261024T193000
+DTEND;TZID=Europe/London:20261024T213000
+SUMMARY:Ronnie's Lates: West at Notting Hill Arts Club with Tendayi & Friends · Ronnie Scott's
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:External Show. https://www.ronniescotts.co.uk/find-a-show/ronnies-lates-west-2
+URL:https://www.ronniescotts.co.uk/find-a-show/ronnies-lates-west-2
+END:VEVENT
+BEGIN:VEVENT
 UID:bd5b84c4f822@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261024T201500
 DTEND;TZID=Europe/London:20261024T221500
 SUMMARY:Tony Momrelle · Ronnie Scott's
@@ -283,7 +690,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/tony-momrelle-2
 END:VEVENT
 BEGIN:VEVENT
 UID:64936cf72c78@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261025T183000
 DTEND;TZID=Europe/London:20261025T203000
 SUMMARY:W3 Funk Sessions · Ronnie Scott's
@@ -293,8 +700,41 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/w3-funk-sessio
 URL:https://www.ronniescotts.co.uk/find-a-show/w3-funk-sessions-3
 END:VEVENT
 BEGIN:VEVENT
+UID:8a001b0bd91d@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261025T190000
+DTEND;TZID=Europe/London:20261025T210000
+SUMMARY:Saigon Soul Revival · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Alt-Vietnamese Ensemble. https://thejazzcafe.com/event/saigon-soul-revival/
+URL:https://thejazzcafe.com/event/saigon-soul-revival/
+END:VEVENT
+BEGIN:VEVENT
+UID:109cfbf7a7ce@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261026T190000
+DTEND;TZID=Europe/London:20261026T210000
+SUMMARY:The Soul Rebels · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/the-soul-rebels-london-26-10-2026/event/23006504A37909A6
+URL:https://www.ticketmaster.co.uk/the-soul-rebels-london-26-10-2026/event/23006504A37909A6
+END:VEVENT
+BEGIN:VEVENT
+UID:c38b7bcb804d@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261026T213000
+DTEND;TZID=Europe/London:20261026T233000
+SUMMARY:The Soul Rebels · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/the-soul-rebels-london-26-10-2026/event/23006504A37B09AC
+URL:https://www.ticketmaster.co.uk/the-soul-rebels-london-26-10-2026/event/23006504A37B09AC
+END:VEVENT
+BEGIN:VEVENT
 UID:2b2d786a014b@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261027T173000
 DTEND;TZID=Europe/London:20261027T193000
 SUMMARY:Joel Ross Quartet · Ronnie Scott's
@@ -304,8 +744,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/joel-ross-quar
 URL:https://www.ronniescotts.co.uk/find-a-show/joel-ross-quartet
 END:VEVENT
 BEGIN:VEVENT
+UID:67cfdac8010b@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261027T190000
+DTEND;TZID=Europe/London:20261027T210000
+SUMMARY:Allysha Joy and the Actions of Love Choir · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/allysha-joy-and-the-actions-of-london-27-10-2026/event/2300651BA45A1067
+URL:https://www.ticketmaster.co.uk/allysha-joy-and-the-actions-of-london-27-10-2026/event/2300651BA45A1067
+END:VEVENT
+BEGIN:VEVENT
 UID:ed3f7b224f6a@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261027T203000
 DTEND;TZID=Europe/London:20261027T223000
 SUMMARY:Joel Ross Quartet · Ronnie Scott's
@@ -315,8 +766,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/joel-ross-quar
 URL:https://www.ronniescotts.co.uk/find-a-show/joel-ross-quartet
 END:VEVENT
 BEGIN:VEVENT
+UID:6baa290782f5@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261027T213000
+DTEND;TZID=Europe/London:20261027T233000
+SUMMARY:Allysha Joy and the Actions of Love Choir · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/allysha-joy-and-the-actions-of-london-27-10-2026/event/2300651BA45C1069
+URL:https://www.ticketmaster.co.uk/allysha-joy-and-the-actions-of-london-27-10-2026/event/2300651BA45C1069
+END:VEVENT
+BEGIN:VEVENT
 UID:761a2953274c@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261027T224500
 DTEND;TZID=Europe/London:20261028T004500
 SUMMARY:Late Late Show Upstairs presented by Parthenope with Women in Jazz · Ronnie Scott's
@@ -327,7 +789,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/parthenope-presents-with-women-in
 END:VEVENT
 BEGIN:VEVENT
 UID:db458750aa27@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261028T173000
 DTEND;TZID=Europe/London:20261028T193000
 SUMMARY:Sullivan Fortner Trio · Ronnie Scott's
@@ -337,8 +799,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/sullivan-fortn
 URL:https://www.ronniescotts.co.uk/find-a-show/sullivan-fortner-trio
 END:VEVENT
 BEGIN:VEVENT
+UID:7c9ae57e67a9@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261028T190000
+DTEND;TZID=Europe/London:20261028T210000
+SUMMARY:Tia Gordon · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Neo-Soul Songstress. https://thejazzcafe.com/event/tia-gordon/
+URL:https://thejazzcafe.com/event/tia-gordon/
+END:VEVENT
+BEGIN:VEVENT
 UID:267535401708@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261028T203000
 DTEND;TZID=Europe/London:20261028T223000
 SUMMARY:Sullivan Fortner Trio · Ronnie Scott's
@@ -349,7 +822,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/sullivan-fortner-trio
 END:VEVENT
 BEGIN:VEVENT
 UID:bba6397f0dd6@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261029T170000
 DTEND;TZID=Europe/London:20261029T190000
 SUMMARY:Vanessa Haynes · Ronnie Scott's
@@ -359,8 +832,19 @@ DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/van
 URL:https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2
 END:VEVENT
 BEGIN:VEVENT
+UID:308c1b138917@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261029T190000
+DTEND;TZID=Europe/London:20261029T210000
+SUMMARY:Ella Thompson · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Contemporary Soul Luminary. https://thejazzcafe.com/event/ella-thompson/
+URL:https://thejazzcafe.com/event/ella-thompson/
+END:VEVENT
+BEGIN:VEVENT
 UID:725fd60bac7a@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261029T201500
 DTEND;TZID=Europe/London:20261029T221500
 SUMMARY:Vanessa Haynes · Ronnie Scott's
@@ -370,8 +854,19 @@ DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/van
 URL:https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2
 END:VEVENT
 BEGIN:VEVENT
+UID:ec75533f5755@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261029T213000
+DTEND;TZID=Europe/London:20261029T233000
+SUMMARY:Laura Mvula · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/laura-mvula-london-29-10-2026/event/2300650EFB61E3AC
+URL:https://www.ticketmaster.co.uk/laura-mvula-london-29-10-2026/event/2300650EFB61E3AC
+END:VEVENT
+BEGIN:VEVENT
 UID:02210f9a75f5@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261029T224500
 DTEND;TZID=Europe/London:20261030T004500
 SUMMARY:Late Late Show with Jackson Mathod · Ronnie Scott's
@@ -382,7 +877,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/jackson-mathod-upstairs
 END:VEVENT
 BEGIN:VEVENT
 UID:4587b82d7d5a@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261029T231500
 DTEND;TZID=Europe/London:20261030T011500
 SUMMARY:Late Late Show hosted by Myele Manzanza · Ronnie Scott's
@@ -393,7 +888,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-myele-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:c97c74322fac@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261030T170000
 DTEND;TZID=Europe/London:20261030T190000
 SUMMARY:Vula presents: The Request Line · Ronnie Scott's
@@ -403,8 +898,19 @@ DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/vul
 URL:https://www.ronniescotts.co.uk/find-a-show/vula-presents-the-request-line
 END:VEVENT
 BEGIN:VEVENT
+UID:94bb512414ce@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261030T190000
+DTEND;TZID=Europe/London:20261030T210000
+SUMMARY:Laura Mvula · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/laura-mvula-london-30-10-2026/event/2300650EFB63E3BC
+URL:https://www.ticketmaster.co.uk/laura-mvula-london-30-10-2026/event/2300650EFB63E3BC
+END:VEVENT
+BEGIN:VEVENT
 UID:2130a20d9ae3@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261030T190000
 DTEND;TZID=Europe/London:20261030T210000
 SUMMARY:Ronnie Scott’s presents Funky Nation up on the roof of Century Club · Ronnie Scott's
@@ -415,7 +921,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-presents-funky-nati
 END:VEVENT
 BEGIN:VEVENT
 UID:dc181e1e3a83@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261030T201500
 DTEND;TZID=Europe/London:20261030T221500
 SUMMARY:Vula presents: The Request Line · Ronnie Scott's
@@ -426,7 +932,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/vula-presents-the-request-line
 END:VEVENT
 BEGIN:VEVENT
 UID:ce976dc353f1@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261030T231500
 DTEND;TZID=Europe/London:20261031T011500
 SUMMARY:Late Late Electronic hosted by Chiminyo · Ronnie Scott's
@@ -437,7 +943,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/late-late-electronic-chiminyo
 END:VEVENT
 BEGIN:VEVENT
 UID:4b8753d700ad@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261031T170000
 DTEND;TZID=Europe/London:20261031T190000
 SUMMARY:ShezAr & The Soul Sirens · Ronnie Scott's
@@ -448,7 +954,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/shezar-the-soul-sirens
 END:VEVENT
 BEGIN:VEVENT
 UID:4f37c7c4c32d@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261031T173000
 DTEND;TZID=Europe/London:20261031T193000
 SUMMARY:Mark Lettieri Group · Ronnie Scott's
@@ -458,8 +964,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/mark-lettieri-
 URL:https://www.ronniescotts.co.uk/find-a-show/mark-lettieri-group
 END:VEVENT
 BEGIN:VEVENT
+UID:6c09dc7d63af@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261031T190000
+DTEND;TZID=Europe/London:20261031T210000
+SUMMARY:Milena Casado · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/milena-casado-london-31-10-2026/event/230064FDCBB91726
+URL:https://www.ticketmaster.co.uk/milena-casado-london-31-10-2026/event/230064FDCBB91726
+END:VEVENT
+BEGIN:VEVENT
 UID:34067b7952da@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261031T201500
 DTEND;TZID=Europe/London:20261031T221500
 SUMMARY:ShezAr & The Soul Sirens · Ronnie Scott's
@@ -470,7 +987,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/shezar-the-soul-sirens
 END:VEVENT
 BEGIN:VEVENT
 UID:3fd7e837d593@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261031T203000
 DTEND;TZID=Europe/London:20261031T223000
 SUMMARY:Mark Lettieri Group · Ronnie Scott's
@@ -480,8 +997,85 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/mark-lettieri-
 URL:https://www.ronniescotts.co.uk/find-a-show/mark-lettieri-group
 END:VEVENT
 BEGIN:VEVENT
+UID:cf2d81afc775@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261031T213000
+DTEND;TZID=Europe/London:20261031T233000
+SUMMARY:Milena Casado · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/milena-casado-london-31-10-2026/event/230064FDCBBA1728
+URL:https://www.ticketmaster.co.uk/milena-casado-london-31-10-2026/event/230064FDCBBA1728
+END:VEVENT
+BEGIN:VEVENT
+UID:d1f884bcbb6d@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261031T223000
+DTEND;TZID=Europe/London:20261101T003000
+SUMMARY:soulcity (halloween) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:a dance thing. https://thejazzcafe.com/event/soulcity-halloween/
+URL:https://thejazzcafe.com/event/soulcity-halloween/
+END:VEVENT
+BEGIN:VEVENT
+UID:745470d0fa11@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261101T190000
+DTEND;TZID=Europe/London:20261101T210000
+SUMMARY:Moyses Dos Santos & Friends · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/moyses-dos-santos-friends-london-01-11-2026/event/2300652C7F7623D6
+URL:https://www.ticketmaster.co.uk/moyses-dos-santos-friends-london-01-11-2026/event/2300652C7F7623D6
+END:VEVENT
+BEGIN:VEVENT
+UID:cf6a55234fb7@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261101T213000
+DTEND;TZID=Europe/London:20261101T233000
+SUMMARY:Moyses Dos Santos & Friends · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/moyses-dos-santos-friends-london-01-11-2026/event/2300652C7F7823D8
+URL:https://www.ticketmaster.co.uk/moyses-dos-santos-friends-london-01-11-2026/event/2300652C7F7823D8
+END:VEVENT
+BEGIN:VEVENT
+UID:3137618c876a@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261102T190000
+DTEND;TZID=Europe/London:20261102T210000
+SUMMARY:Richard Bona Trio · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/richard-bona-trio-london-02-11-2026/event/23006504B7570A35
+URL:https://www.ticketmaster.co.uk/richard-bona-trio-london-02-11-2026/event/23006504B7570A35
+END:VEVENT
+BEGIN:VEVENT
+UID:1ea088a9445e@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261102T190000
+DTEND;TZID=Europe/London:20261102T210000
+SUMMARY:Dizzy DROS · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Moroccan Rap Frontrunner. https://thejazzcafe.com/event/dizzy-dros/
+URL:https://thejazzcafe.com/event/dizzy-dros/
+END:VEVENT
+BEGIN:VEVENT
+UID:76e5787988dc@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261102T213000
+DTEND;TZID=Europe/London:20261102T233000
+SUMMARY:Richard Bona Trio · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/richard-bona-trio-london-02-11-2026/event/23006504B7580A37
+URL:https://www.ticketmaster.co.uk/richard-bona-trio-london-02-11-2026/event/23006504B7580A37
+END:VEVENT
+BEGIN:VEVENT
 UID:84ba8ed27eec@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261102T213000
 DTEND;TZID=Europe/London:20261102T233000
 SUMMARY:Ronnie Scott's Jazz Jam · Ronnie Scott's
@@ -492,7 +1086,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1
 END:VEVENT
 BEGIN:VEVENT
 UID:3a5aa5b8bdd2@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261102T224500
 DTEND;TZID=Europe/London:20261103T004500
 SUMMARY:Late Late Soul Sessions Upstairs with SAHRA · Ronnie Scott's
@@ -502,8 +1096,41 @@ DESCRIPTION:Late Late Show Upstairs. https://www.ronniescotts.co.uk/find-a-show/
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-soul-sessions-sahra
 END:VEVENT
 BEGIN:VEVENT
+UID:b7eb863db323@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261103T190000
+DTEND;TZID=Europe/London:20261103T210000
+SUMMARY:Richard Bona Trio · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/richard-bona-trio-london-03-11-2026/event/23006504B7590A39
+URL:https://www.ticketmaster.co.uk/richard-bona-trio-london-03-11-2026/event/23006504B7590A39
+END:VEVENT
+BEGIN:VEVENT
+UID:ceeec3c82c95@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261103T190000
+DTEND;TZID=Europe/London:20261103T210000
+SUMMARY:Mark Guiliana BEAT MUSIC · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Psychedelic Electro-Jazz. https://thejazzcafe.com/event/mark-guiliana-beat-music-2/
+URL:https://thejazzcafe.com/event/mark-guiliana-beat-music-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:8de186de4f6a@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261103T213000
+DTEND;TZID=Europe/London:20261103T233000
+SUMMARY:Richard Bona Trio · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/richard-bona-trio-london-03-11-2026/event/23006504B75A0A3E
+URL:https://www.ticketmaster.co.uk/richard-bona-trio-london-03-11-2026/event/23006504B75A0A3E
+END:VEVENT
+BEGIN:VEVENT
 UID:3a2ae13830f4@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261103T224500
 DTEND;TZID=Europe/London:20261104T004500
 SUMMARY:Late Late Show Upstairs with Tomorrow’s Warriors: Zeñel · Ronnie Scott's
@@ -513,8 +1140,41 @@ DESCRIPTION:Late Late Show Upstairs. https://www.ronniescotts.co.uk/find-a-show/
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-with-tomorrows-warriors-zeñel
 END:VEVENT
 BEGIN:VEVENT
+UID:8d61fcdb3e36@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261104T190000
+DTEND;TZID=Europe/London:20261104T210000
+SUMMARY:Sampa the Great · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/sampa-the-great-london-04-11-2026/event/2300651BA2530FFA
+URL:https://www.ticketmaster.co.uk/sampa-the-great-london-04-11-2026/event/2300651BA2530FFA
+END:VEVENT
+BEGIN:VEVENT
+UID:d29f30f657b4@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261104T190000
+DTEND;TZID=Europe/London:20261104T210000
+SUMMARY:Calibro 35 · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Golden Age Cinematic Sound. https://thejazzcafe.com/event/calibro-35/
+URL:https://thejazzcafe.com/event/calibro-35/
+END:VEVENT
+BEGIN:VEVENT
+UID:fbc59753b74a@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261104T213000
+DTEND;TZID=Europe/London:20261104T233000
+SUMMARY:Sampa the Great · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/sampa-the-great-london-04-11-2026/event/2300651BA2550FFC
+URL:https://www.ticketmaster.co.uk/sampa-the-great-london-04-11-2026/event/2300651BA2550FFC
+END:VEVENT
+BEGIN:VEVENT
 UID:a0dfe67261f6@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261104T231500
 DTEND;TZID=Europe/London:20261105T011500
 SUMMARY:Late Late Show hosted by Mark Kavuma's Banger Factory · Ronnie Scott's
@@ -525,7 +1185,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-mark-kav
 END:VEVENT
 BEGIN:VEVENT
 UID:8048cfd03d5c@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261105T170000
 DTEND;TZID=Europe/London:20261105T190000
 SUMMARY:DoomCannon · Ronnie Scott's
@@ -535,8 +1195,30 @@ DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/doo
 URL:https://www.ronniescotts.co.uk/find-a-show/doomcannon
 END:VEVENT
 BEGIN:VEVENT
+UID:162619779175@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261105T190000
+DTEND;TZID=Europe/London:20261105T210000
+SUMMARY:Yazmin Lacey · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/yazmin-lacey-london-05-11-2026/event/23006524BB0E9B33
+URL:https://www.ticketmaster.co.uk/yazmin-lacey-london-05-11-2026/event/23006524BB0E9B33
+END:VEVENT
+BEGIN:VEVENT
+UID:f83e18ee4547@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261105T193000
+DTEND;TZID=Europe/London:20261105T213000
+SUMMARY:Ronnie's Lates: East at The Jago with Hoos Collective · Ronnie Scott's
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:External Show. https://www.ronniescotts.co.uk/find-a-show/ronnies-lates-east-3
+URL:https://www.ronniescotts.co.uk/find-a-show/ronnies-lates-east-3
+END:VEVENT
+BEGIN:VEVENT
 UID:bb90d5ac0fbb@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261105T201500
 DTEND;TZID=Europe/London:20261105T221500
 SUMMARY:DoomCannon · Ronnie Scott's
@@ -546,8 +1228,19 @@ DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/doo
 URL:https://www.ronniescotts.co.uk/find-a-show/doomcannon
 END:VEVENT
 BEGIN:VEVENT
+UID:09f22aeff2e0@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261105T213000
+DTEND;TZID=Europe/London:20261105T233000
+SUMMARY:Yazmin Lacey · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/yazmin-lacey-london-05-11-2026/event/23006524BB109B3A
+URL:https://www.ticketmaster.co.uk/yazmin-lacey-london-05-11-2026/event/23006524BB109B3A
+END:VEVENT
+BEGIN:VEVENT
 UID:8ed2413f70bf@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261105T224500
 DTEND;TZID=Europe/London:20261106T004500
 SUMMARY:Late Late Show Upstairs with Cosmic Fusion · Ronnie Scott's
@@ -558,7 +1251,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/cosmic-fusion-late-show
 END:VEVENT
 BEGIN:VEVENT
 UID:fba4e75a31b9@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261106T173000
 DTEND;TZID=Europe/London:20261106T193000
 SUMMARY:Theo Croker · Ronnie Scott's
@@ -568,8 +1261,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/theo-croker
 URL:https://www.ronniescotts.co.uk/find-a-show/theo-croker
 END:VEVENT
 BEGIN:VEVENT
+UID:9315861a3e75@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261106T183000
+DTEND;TZID=Europe/London:20261106T203000
+SUMMARY:Idris Ackamoor & The Pyramids · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Spiritual Afro-Jazz Originators. https://thejazzcafe.com/event/idris-ackamoor-the-pyramids/
+URL:https://thejazzcafe.com/event/idris-ackamoor-the-pyramids/
+END:VEVENT
+BEGIN:VEVENT
 UID:ce73e834d573@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261106T203000
 DTEND;TZID=Europe/London:20261106T223000
 SUMMARY:Theo Croker · Ronnie Scott's
@@ -580,7 +1284,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/theo-croker
 END:VEVENT
 BEGIN:VEVENT
 UID:eb847ef8bd6e@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261106T231500
 DTEND;TZID=Europe/London:20261107T011500
 SUMMARY:Late Late Show with Future Movers · Ronnie Scott's
@@ -591,7 +1295,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-the-futu
 END:VEVENT
 BEGIN:VEVENT
 UID:9acc03b2a5ce@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261107T173000
 DTEND;TZID=Europe/London:20261107T193000
 SUMMARY:Theo Croker · Ronnie Scott's
@@ -602,7 +1306,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/theo-croker
 END:VEVENT
 BEGIN:VEVENT
 UID:eb41fec48452@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261107T203000
 DTEND;TZID=Europe/London:20261107T223000
 SUMMARY:Theo Croker · Ronnie Scott's
@@ -612,8 +1316,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/theo-croker
 URL:https://www.ronniescotts.co.uk/find-a-show/theo-croker
 END:VEVENT
 BEGIN:VEVENT
+UID:b9d0b34a9aaf@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261107T223000
+DTEND;TZID=Europe/London:20261108T003000
+SUMMARY:edapollo\, Indigo Eyes\, Stresshead ++more · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Lo-Fidelity House Magic. https://thejazzcafe.com/event/edapollo-indigo-eyes-stresshead-more/
+URL:https://thejazzcafe.com/event/edapollo-indigo-eyes-stresshead-more/
+END:VEVENT
+BEGIN:VEVENT
 UID:635813d45f52@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261107T231500
 DTEND;TZID=Europe/London:20261108T011500
 SUMMARY:Late Late Show with Future Movers · Ronnie Scott's
@@ -623,8 +1338,30 @@ DESCRIPTION:Late Late Show. https://www.ronniescotts.co.uk/find-a-show/late-late
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-the-future-movers
 END:VEVENT
 BEGIN:VEVENT
+UID:bb99a5263c8f@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261108T190000
+DTEND;TZID=Europe/London:20261108T210000
+SUMMARY:Somewhere Soul presents – Levitation Orchestra · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:Tickets On Sale Fri 2nd Oct. https://www.ticketmaster.co.uk/somewhere-soul-presents-levitation-orchestra-london-08-11-2026/event/23006538F16A11F1
+URL:https://www.ticketmaster.co.uk/somewhere-soul-presents-levitation-orchestra-london-08-11-2026/event/23006538F16A11F1
+END:VEVENT
+BEGIN:VEVENT
+UID:1b331b42baab@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261108T213000
+DTEND;TZID=Europe/London:20261108T233000
+SUMMARY:Somewhere Soul presents – Levitation Orchestra · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:Tickets On Sale Fri 2nd Oct. https://www.ticketmaster.co.uk/somewhere-soul-presents-levitation-orchestra-london-08-11-2026/event/23006538F16C11F3
+URL:https://www.ticketmaster.co.uk/somewhere-soul-presents-levitation-orchestra-london-08-11-2026/event/23006538F16C11F3
+END:VEVENT
+BEGIN:VEVENT
 UID:bd598ba1cc22@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261109T173000
 DTEND;TZID=Europe/London:20261109T193000
 SUMMARY:David Binney Action Duo feat. Louis Cole · Ronnie Scott's
@@ -635,7 +1372,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/david-binney-action-trio
 END:VEVENT
 BEGIN:VEVENT
 UID:68aef0981483@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261109T203000
 DTEND;TZID=Europe/London:20261109T223000
 SUMMARY:David Binney Action Duo feat. Louis Cole · Ronnie Scott's
@@ -646,7 +1383,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/david-binney-action-trio
 END:VEVENT
 BEGIN:VEVENT
 UID:d55b3730dcb0@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261109T231500
 DTEND;TZID=Europe/London:20261110T011500
 SUMMARY:Ronnie Scott's Jazz Jam · Ronnie Scott's
@@ -657,7 +1394,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1
 END:VEVENT
 BEGIN:VEVENT
 UID:7af4635930af@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261113T173000
 DTEND;TZID=Europe/London:20261113T193000
 SUMMARY:Gary Husband & The Orbital Band · Ronnie Scott's
@@ -667,8 +1404,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/gary-husband-t
 URL:https://www.ronniescotts.co.uk/find-a-show/gary-husband-the-orbital-band
 END:VEVENT
 BEGIN:VEVENT
+UID:081ae9d653e9@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261113T190000
+DTEND;TZID=Europe/London:20261113T210000
+SUMMARY:dublon (Live) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Jazz Instrumentation meets Deep House. https://thejazzcafe.com/event/dublon-live/
+URL:https://thejazzcafe.com/event/dublon-live/
+END:VEVENT
+BEGIN:VEVENT
 UID:7749da4ac8e7@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261113T203000
 DTEND;TZID=Europe/London:20261113T223000
 SUMMARY:Gary Husband & The Orbital Band · Ronnie Scott's
@@ -679,7 +1427,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/gary-husband-the-orbital-band
 END:VEVENT
 BEGIN:VEVENT
 UID:e86539da4557@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261113T231500
 DTEND;TZID=Europe/London:20261114T011500
 SUMMARY:Late Late Electronic hosted by Chiminyo · Ronnie Scott's
@@ -690,7 +1438,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/late-late-electronic-chiminyo
 END:VEVENT
 BEGIN:VEVENT
 UID:e47d16b49f49@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261114T224500
 DTEND;TZID=Europe/London:20261115T004500
 SUMMARY:Late Late Show Upstairs at Ronnie's with 22a · Ronnie Scott's
@@ -700,8 +1448,52 @@ DESCRIPTION:Late Late Show Upstairs. https://www.ronniescotts.co.uk/find-a-show/
 URL:https://www.ronniescotts.co.uk/find-a-show/tenderlonious-upstairs-at-ronnies
 END:VEVENT
 BEGIN:VEVENT
+UID:e076eb29e2e1@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261115T160000
+DTEND;TZID=Europe/London:20261115T180000
+SUMMARY:The Meltdown (Matinee Show) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:World-Class Southern Soul. https://thejazzcafe.com/event/the-meltdown-matinee-show/
+URL:https://thejazzcafe.com/event/the-meltdown-matinee-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:8272fd73cfd2@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261115T190000
+DTEND;TZID=Europe/London:20261115T210000
+SUMMARY:Robert Glasper with Special Guest Marsha Ambrosius · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/robert-glasper-with-special-guest-marsha-london-15-11-2026/event/23006505B0760B90
+URL:https://www.ticketmaster.co.uk/robert-glasper-with-special-guest-marsha-london-15-11-2026/event/23006505B0760B90
+END:VEVENT
+BEGIN:VEVENT
+UID:a6e1dfdc57e5@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261115T200000
+DTEND;TZID=Europe/London:20261115T220000
+SUMMARY:The Meltdown (Evening Show) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:World-Class Southern Soul. https://thejazzcafe.com/event/the-meltdown-evening-show/
+URL:https://thejazzcafe.com/event/the-meltdown-evening-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:a049d8ad6ae2@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261115T213000
+DTEND;TZID=Europe/London:20261115T233000
+SUMMARY:Robert Glasper with Special Guest Marsha Ambrosius · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/robert-glasper-with-special-guest-marsha-london-15-11-2026/event/23006505B0770B94
+URL:https://www.ticketmaster.co.uk/robert-glasper-with-special-guest-marsha-london-15-11-2026/event/23006505B0770B94
+END:VEVENT
+BEGIN:VEVENT
 UID:38e593d1e10c@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261116T173000
 DTEND;TZID=Europe/London:20261116T193000
 SUMMARY:Nathan Haines with guest vocalist Vanessa Freeman · Ronnie Scott's
@@ -711,8 +1503,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/nathan-haines
 URL:https://www.ronniescotts.co.uk/find-a-show/nathan-haines
 END:VEVENT
 BEGIN:VEVENT
+UID:7ad4d11536f5@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261116T190000
+DTEND;TZID=Europe/London:20261116T210000
+SUMMARY:VULA (A Robert Glasper Curation) · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/vula-a-robert-glasper-curation-london-16-11-2026/event/23006532B71825C1
+URL:https://www.ticketmaster.co.uk/vula-a-robert-glasper-curation-london-16-11-2026/event/23006532B71825C1
+END:VEVENT
+BEGIN:VEVENT
 UID:e8366f8ef1b3@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261116T203000
 DTEND;TZID=Europe/London:20261116T223000
 SUMMARY:Nathan Haines with guest vocalist Vanessa Freeman · Ronnie Scott's
@@ -722,8 +1525,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/nathan-haines
 URL:https://www.ronniescotts.co.uk/find-a-show/nathan-haines
 END:VEVENT
 BEGIN:VEVENT
+UID:ce99871b3c29@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261116T213000
+DTEND;TZID=Europe/London:20261116T233000
+SUMMARY:VULA (A Robert Glasper Curation) · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/vula-a-robert-glasper-curation-london-16-11-2026/event/23006532A40520C4
+URL:https://www.ticketmaster.co.uk/vula-a-robert-glasper-curation-london-16-11-2026/event/23006532A40520C4
+END:VEVENT
+BEGIN:VEVENT
 UID:d8e67c297bb1@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261116T224500
 DTEND;TZID=Europe/London:20261117T004500
 SUMMARY:Late Late Soul Sessions Upstairs with Imaani · Ronnie Scott's
@@ -733,8 +1547,30 @@ DESCRIPTION:Late Late Show Upstairs. https://www.ronniescotts.co.uk/find-a-show/
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-soul-sessions-imaani
 END:VEVENT
 BEGIN:VEVENT
+UID:4b73bd444abd@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261117T190000
+DTEND;TZID=Europe/London:20261117T210000
+SUMMARY:Slum Village FT Blue Lab Beats & Friends · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/slum-village-ft-blue-lab-beats-london-17-11-2026/event/2300651BC8BF1748
+URL:https://www.ticketmaster.co.uk/slum-village-ft-blue-lab-beats-london-17-11-2026/event/2300651BC8BF1748
+END:VEVENT
+BEGIN:VEVENT
+UID:82499046da10@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261117T213000
+DTEND;TZID=Europe/London:20261117T233000
+SUMMARY:Slum Village FT Blue Lab Beats & Friends · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/slum-village-ft-blue-lab-beats-london-17-11-2026/event/2300651BC8C0174D
+URL:https://www.ticketmaster.co.uk/slum-village-ft-blue-lab-beats-london-17-11-2026/event/2300651BC8C0174D
+END:VEVENT
+BEGIN:VEVENT
 UID:d9f940c767b1@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261118T173000
 DTEND;TZID=Europe/London:20261118T193000
 SUMMARY:Ego Ella May · Ronnie Scott's
@@ -744,8 +1580,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/ego-ella-may
 URL:https://www.ronniescotts.co.uk/find-a-show/ego-ella-may
 END:VEVENT
 BEGIN:VEVENT
+UID:98decdf551e3@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261118T190000
+DTEND;TZID=Europe/London:20261118T210000
+SUMMARY:Slum Village FT Blue Lab Beats & Friends · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/slum-village-ft-blue-lab-beats-london-18-11-2026/event/2300651BC8C31751
+URL:https://www.ticketmaster.co.uk/slum-village-ft-blue-lab-beats-london-18-11-2026/event/2300651BC8C31751
+END:VEVENT
+BEGIN:VEVENT
 UID:258b8444bd42@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261118T203000
 DTEND;TZID=Europe/London:20261118T223000
 SUMMARY:Ego Ella May · Ronnie Scott's
@@ -755,8 +1602,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/ego-ella-may
 URL:https://www.ronniescotts.co.uk/find-a-show/ego-ella-may
 END:VEVENT
 BEGIN:VEVENT
+UID:823631b2d26d@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261118T213000
+DTEND;TZID=Europe/London:20261118T233000
+SUMMARY:Slum Village FT Blue Lab Beats & Friends · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/slum-village-ft-blue-lab-beats-london-18-11-2026/event/2300651BC8C61759
+URL:https://www.ticketmaster.co.uk/slum-village-ft-blue-lab-beats-london-18-11-2026/event/2300651BC8C61759
+END:VEVENT
+BEGIN:VEVENT
 UID:144891fbbd2e@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261119T170000
 DTEND;TZID=Europe/London:20261119T190000
 SUMMARY:Rose Ann Dimalanta Trio · Ronnie Scott's
@@ -766,8 +1624,30 @@ DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/ros
 URL:https://www.ronniescotts.co.uk/find-a-show/rose-ann-dimalanta-trio
 END:VEVENT
 BEGIN:VEVENT
+UID:b37be9ab0805@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261119T183000
+DTEND;TZID=Europe/London:20261119T203000
+SUMMARY:Isaiah Sharkey - RED · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Modern Guitar Master. https://thejazzcafe.com/event/isaiah-sharkey-red/
+URL:https://thejazzcafe.com/event/isaiah-sharkey-red/
+END:VEVENT
+BEGIN:VEVENT
+UID:802694cc22cf@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261119T193000
+DTEND;TZID=Europe/London:20261119T213000
+SUMMARY:Ronnie's Lates: South at Vespers with Wonky Logic · Ronnie Scott's
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:External Show. https://www.ronniescotts.co.uk/find-a-show/ronnies-lates-south-3
+URL:https://www.ronniescotts.co.uk/find-a-show/ronnies-lates-south-3
+END:VEVENT
+BEGIN:VEVENT
 UID:6216d89807bb@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261119T201500
 DTEND;TZID=Europe/London:20261119T221500
 SUMMARY:Rose Ann Dimalanta Trio · Ronnie Scott's
@@ -777,8 +1657,30 @@ DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/ros
 URL:https://www.ronniescotts.co.uk/find-a-show/rose-ann-dimalanta-trio
 END:VEVENT
 BEGIN:VEVENT
+UID:4d6e83b8b8df@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261119T213000
+DTEND;TZID=Europe/London:20261119T233000
+SUMMARY:Robert Glasper · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/robert-glasper-london-19-11-2026/event/230065051738118C
+URL:https://www.ticketmaster.co.uk/robert-glasper-london-19-11-2026/event/230065051738118C
+END:VEVENT
+BEGIN:VEVENT
+UID:b7765aa9fb54@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261119T223000
+DTEND;TZID=Europe/London:20261120T003000
+SUMMARY:9th Wonder (DJ Set) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:A One-Off Club Night with. https://thejazzcafe.com/event/9th-wonder-dj-set/
+URL:https://thejazzcafe.com/event/9th-wonder-dj-set/
+END:VEVENT
+BEGIN:VEVENT
 UID:b16e5b8d7546@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261119T224500
 DTEND;TZID=Europe/London:20261120T004500
 SUMMARY:Late Late Show Upstairs with Cosmic Fusion · Ronnie Scott's
@@ -788,8 +1690,19 @@ DESCRIPTION:Late Late Show Upstairs. https://www.ronniescotts.co.uk/find-a-show/
 URL:https://www.ronniescotts.co.uk/find-a-show/cosmic-fusion-late-show
 END:VEVENT
 BEGIN:VEVENT
+UID:083cad02961d@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261120T183000
+DTEND;TZID=Europe/London:20261120T203000
+SUMMARY:LYVIA · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Poetic Soul Pop. https://thejazzcafe.com/event/lyvia/
+URL:https://thejazzcafe.com/event/lyvia/
+END:VEVENT
+BEGIN:VEVENT
 UID:24e3bc555d49@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261121T170000
 DTEND;TZID=Europe/London:20261121T190000
 SUMMARY:Blue Lab Beats & Friends · Ronnie Scott's
@@ -800,7 +1713,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/blue-lab-beats-friends
 END:VEVENT
 BEGIN:VEVENT
 UID:5b4a1264a13f@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261121T173000
 DTEND;TZID=Europe/London:20261121T193000
 SUMMARY:Morgan Guerin · Ronnie Scott's
@@ -810,8 +1723,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/morgan-guerin
 URL:https://www.ronniescotts.co.uk/find-a-show/morgan-guerin
 END:VEVENT
 BEGIN:VEVENT
+UID:648d3efca1eb@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261121T183000
+DTEND;TZID=Europe/London:20261121T203000
+SUMMARY:Pan Amsterdam · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:NYC Jazz-Rap Maverick. https://thejazzcafe.com/event/pan-amsterdam-2/
+URL:https://thejazzcafe.com/event/pan-amsterdam-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:20596b6ddb47@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261121T201500
 DTEND;TZID=Europe/London:20261121T221500
 SUMMARY:Blue Lab Beats & Friends · Ronnie Scott's
@@ -822,7 +1746,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/blue-lab-beats-friends
 END:VEVENT
 BEGIN:VEVENT
 UID:a530fa8327e3@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261121T203000
 DTEND;TZID=Europe/London:20261121T223000
 SUMMARY:Morgan Guerin · Ronnie Scott's
@@ -833,7 +1757,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/morgan-guerin
 END:VEVENT
 BEGIN:VEVENT
 UID:96a01929823a@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261121T224500
 DTEND;TZID=Europe/London:20261122T004500
 SUMMARY:Late Late Show Upstairs with The Nest Sessions · Ronnie Scott's
@@ -843,8 +1767,52 @@ DESCRIPTION:Late Late Show Upstairs. https://www.ronniescotts.co.uk/find-a-show/
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-upstairs-with-the-nest
 END:VEVENT
 BEGIN:VEVENT
+UID:9106a34ff1b7@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261123T190000
+DTEND;TZID=Europe/London:20261123T210000
+SUMMARY:Adekunle Gold · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:Tickets On Sale Fri 2nd October. https://www.ticketmaster.co.uk/adekunle-gold-london-23-11-2026/event/23006538D32C0F9F
+URL:https://www.ticketmaster.co.uk/adekunle-gold-london-23-11-2026/event/23006538D32C0F9F
+END:VEVENT
+BEGIN:VEVENT
+UID:4889fd08d323@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261123T213000
+DTEND;TZID=Europe/London:20261123T233000
+SUMMARY:Adekunle Gold · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:Tickets On Sale Fri 2nd October. https://www.ticketmaster.co.uk/adekunle-gold-london-23-11-2026/event/23006538D32F0FA2
+URL:https://www.ticketmaster.co.uk/adekunle-gold-london-23-11-2026/event/23006538D32F0FA2
+END:VEVENT
+BEGIN:VEVENT
+UID:64796b2c66d4@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261124T190000
+DTEND;TZID=Europe/London:20261124T210000
+SUMMARY:Adekunle Gold · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:Tickets On Sale Fri 2nd October. https://www.ticketmaster.co.uk/adekunle-gold-london-24-11-2026/event/23006538D3360FA9
+URL:https://www.ticketmaster.co.uk/adekunle-gold-london-24-11-2026/event/23006538D3360FA9
+END:VEVENT
+BEGIN:VEVENT
+UID:5ad5e4f40b56@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261124T213000
+DTEND;TZID=Europe/London:20261124T233000
+SUMMARY:Adekunle Gold · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:Tickets On Sale Fri 2nd October. https://www.ticketmaster.co.uk/adekunle-gold-london-24-11-2026/event/23006538D33E0FAC
+URL:https://www.ticketmaster.co.uk/adekunle-gold-london-24-11-2026/event/23006538D33E0FAC
+END:VEVENT
+BEGIN:VEVENT
 UID:4568012532bb@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261125T173000
 DTEND;TZID=Europe/London:20261125T193000
 SUMMARY:Jeff Lorber · Ronnie Scott's
@@ -854,8 +1822,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/jeff-lorber
 URL:https://www.ronniescotts.co.uk/find-a-show/jeff-lorber
 END:VEVENT
 BEGIN:VEVENT
+UID:a488383420f7@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261125T190000
+DTEND;TZID=Europe/London:20261125T210000
+SUMMARY:Miles Davis 100: In a Silent Way · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/miles-davis-100-in-a-silent-london-25-11-2026/event/2300652FF7281ECE
+URL:https://www.ticketmaster.co.uk/miles-davis-100-in-a-silent-london-25-11-2026/event/2300652FF7281ECE
+END:VEVENT
+BEGIN:VEVENT
 UID:fb30097fb5ca@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261125T203000
 DTEND;TZID=Europe/London:20261125T223000
 SUMMARY:Jeff Lorber · Ronnie Scott's
@@ -865,8 +1844,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/jeff-lorber
 URL:https://www.ronniescotts.co.uk/find-a-show/jeff-lorber
 END:VEVENT
 BEGIN:VEVENT
+UID:9372139fe18b@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261125T213000
+DTEND;TZID=Europe/London:20261125T233000
+SUMMARY:Miles Davis 100: In a Silent Way · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/miles-davis-100-in-a-silent-london-25-11-2026/event/2300652FF72C1ED0
+URL:https://www.ticketmaster.co.uk/miles-davis-100-in-a-silent-london-25-11-2026/event/2300652FF72C1ED0
+END:VEVENT
+BEGIN:VEVENT
 UID:8b6ad2bcc360@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261125T231500
 DTEND;TZID=Europe/London:20261126T011500
 SUMMARY:Late Late Show hosted by Jamie Murray · Ronnie Scott's
@@ -877,7 +1867,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-jamie-mu
 END:VEVENT
 BEGIN:VEVENT
 UID:19b0ea0ed69e@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261126T170000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Vanessa Haynes · Ronnie Scott's
@@ -887,8 +1877,19 @@ DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/van
 URL:https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2
 END:VEVENT
 BEGIN:VEVENT
+UID:807f4aa3e26d@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261126T190000
+DTEND;TZID=Europe/London:20261126T210000
+SUMMARY:Leenalchi · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:South Korea’s Breakout Phenomenon. https://thejazzcafe.com/event/leenalchi/
+URL:https://thejazzcafe.com/event/leenalchi/
+END:VEVENT
+BEGIN:VEVENT
 UID:11f8725fc369@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261126T201500
 DTEND;TZID=Europe/London:20261126T221500
 SUMMARY:Vanessa Haynes · Ronnie Scott's
@@ -899,7 +1900,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2
 END:VEVENT
 BEGIN:VEVENT
 UID:1308bd8fd461@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261126T231500
 DTEND;TZID=Europe/London:20261127T011500
 SUMMARY:Late Late Show hosted by Myele Manzanza · Ronnie Scott's
@@ -910,7 +1911,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-myele-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:1113436bbb9b@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261127T170000
 DTEND;TZID=Europe/London:20261127T190000
 SUMMARY:Vula presents: The Request Line · Ronnie Scott's
@@ -920,8 +1921,19 @@ DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/vul
 URL:https://www.ronniescotts.co.uk/find-a-show/vula-presents-the-request-line
 END:VEVENT
 BEGIN:VEVENT
+UID:88ec93d814cb@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261127T190000
+DTEND;TZID=Europe/London:20261127T210000
+SUMMARY:Jazzanova Live feat. Wayne Snow · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/jazzanova-live-feat-wayne-snow-london-27-11-2026/event/23006504BEE60A69
+URL:https://www.ticketmaster.co.uk/jazzanova-live-feat-wayne-snow-london-27-11-2026/event/23006504BEE60A69
+END:VEVENT
+BEGIN:VEVENT
 UID:f0c97c091475@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261127T201500
 DTEND;TZID=Europe/London:20261127T221500
 SUMMARY:Vula presents: The Request Line · Ronnie Scott's
@@ -931,8 +1943,19 @@ DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/vul
 URL:https://www.ronniescotts.co.uk/find-a-show/vula-presents-the-request-line
 END:VEVENT
 BEGIN:VEVENT
+UID:309e91e85a54@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261127T213000
+DTEND;TZID=Europe/London:20261127T233000
+SUMMARY:Jazzanova Live feat. Wayne Snow · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/jazzanova-live-feat-wayne-snow-london-27-11-2026/event/23006504BEE70A6E
+URL:https://www.ticketmaster.co.uk/jazzanova-live-feat-wayne-snow-london-27-11-2026/event/23006504BEE70A6E
+END:VEVENT
+BEGIN:VEVENT
 UID:1c7116f684ea@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261127T231500
 DTEND;TZID=Europe/London:20261128T011500
 SUMMARY:Late Late Show with Creature. · Ronnie Scott's
@@ -942,8 +1965,52 @@ DESCRIPTION:Late Late Show. https://www.ronniescotts.co.uk/find-a-show/late-late
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-with-creature
 END:VEVENT
 BEGIN:VEVENT
+UID:58da61eca009@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261128T183000
+DTEND;TZID=Europe/London:20261128T203000
+SUMMARY:Toshiki Soejima · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Japan's Neo-Soul Master. https://thejazzcafe.com/event/toshiki-soejima/
+URL:https://thejazzcafe.com/event/toshiki-soejima/
+END:VEVENT
+BEGIN:VEVENT
+UID:5a96f71d99a3@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261128T190000
+DTEND;TZID=Europe/London:20261128T210000
+SUMMARY:Nubiyan Twist · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:Tickets On Sale Fri 2nd October. https://www.ticketmaster.co.uk/nubiyan-twist-london-28-11-2026/event/2300653D88C60ADA
+URL:https://www.ticketmaster.co.uk/nubiyan-twist-london-28-11-2026/event/2300653D88C60ADA
+END:VEVENT
+BEGIN:VEVENT
+UID:171226f2e7a4@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261128T193000
+DTEND;TZID=Europe/London:20261128T213000
+SUMMARY:Ronnie's Lates: North at Jamboree with SULA · Ronnie Scott's
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:External Show. https://www.ronniescotts.co.uk/find-a-show/ronnies-lates-north-2
+URL:https://www.ronniescotts.co.uk/find-a-show/ronnies-lates-north-2
+END:VEVENT
+BEGIN:VEVENT
+UID:c036ef6ce150@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261128T213000
+DTEND;TZID=Europe/London:20261128T233000
+SUMMARY:Nubiyan Twist · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:Tickets On Sale Fri 2nd October. https://www.ticketmaster.co.uk/nubiyan-twist-london-28-11-2026/event/2300653D88C80AE1
+URL:https://www.ticketmaster.co.uk/nubiyan-twist-london-28-11-2026/event/2300653D88C80AE1
+END:VEVENT
+BEGIN:VEVENT
 UID:3f47d3c08826@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261128T224500
 DTEND;TZID=Europe/London:20261129T004500
 SUMMARY:Late Late Show Upstairs with Energy Exchange Records · Ronnie Scott's
@@ -953,8 +2020,19 @@ DESCRIPTION:Late Late Show Upstairs. https://www.ronniescotts.co.uk/find-a-show/
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-upstairs-with-energy-exchange-records
 END:VEVENT
 BEGIN:VEVENT
+UID:c982cab1cb1c@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261129T160000
+DTEND;TZID=Europe/London:20261129T180000
+SUMMARY:Raquel Rodriguez (Matinee Show) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:West Coast's RnB Star. https://thejazzcafe.com/event/raquel-rodriguez-matinee-show/
+URL:https://thejazzcafe.com/event/raquel-rodriguez-matinee-show/
+END:VEVENT
+BEGIN:VEVENT
 UID:521cd85f9e6a@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261129T183000
 DTEND;TZID=Europe/London:20261129T203000
 SUMMARY:W3 Funk Sessions · Ronnie Scott's
@@ -964,8 +2042,41 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/w3-funk-sessio
 URL:https://www.ronniescotts.co.uk/find-a-show/w3-funk-sessions-3
 END:VEVENT
 BEGIN:VEVENT
+UID:76254f9078f3@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261129T193000
+DTEND;TZID=Europe/London:20261129T213000
+SUMMARY:Raquel Rodriguez (Evening Show) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:West Coast's RnB Star. https://thejazzcafe.com/event/raquel-rodriguez-evening-show/
+URL:https://thejazzcafe.com/event/raquel-rodriguez-evening-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:52e9c455ada1@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261129T213000
+DTEND;TZID=Europe/London:20261129T233000
+SUMMARY:Tank and the Bangas · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/tank-and-the-bangas-london-29-11-2026/event/230065049DE10982
+URL:https://www.ticketmaster.co.uk/tank-and-the-bangas-london-29-11-2026/event/230065049DE10982
+END:VEVENT
+BEGIN:VEVENT
+UID:1ae0727c66c5@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261130T190000
+DTEND;TZID=Europe/London:20261130T210000
+SUMMARY:Courtney Pine: Out of the Ghetto · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/courtney-pine-out-of-the-ghetto-london-30-11-2026/event/2300652F1031220C
+URL:https://www.ticketmaster.co.uk/courtney-pine-out-of-the-ghetto-london-30-11-2026/event/2300652F1031220C
+END:VEVENT
+BEGIN:VEVENT
 UID:a71c6431ceb1@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261130T203000
 DTEND;TZID=Europe/London:20261130T223000
 SUMMARY:The Best Of Natalie Williams' Soul Family · Ronnie Scott's
@@ -975,8 +2086,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/the-best-of-na
 URL:https://www.ronniescotts.co.uk/find-a-show/the-best-of-natalie-williams-soul-family
 END:VEVENT
 BEGIN:VEVENT
+UID:500d60ad4510@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261130T213000
+DTEND;TZID=Europe/London:20261130T233000
+SUMMARY:Courtney Pine: Out of the Ghetto · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/courtney-pine-out-of-the-ghetto-london-30-11-2026/event/2300652F1036220E
+URL:https://www.ticketmaster.co.uk/courtney-pine-out-of-the-ghetto-london-30-11-2026/event/2300652F1036220E
+END:VEVENT
+BEGIN:VEVENT
 UID:1d14f260562f@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261201T173000
 DTEND;TZID=Europe/London:20261201T193000
 SUMMARY:The Best Of Natalie Williams' Soul Family · Ronnie Scott's
@@ -986,8 +2108,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/the-best-of-na
 URL:https://www.ronniescotts.co.uk/find-a-show/the-best-of-natalie-williams-soul-family
 END:VEVENT
 BEGIN:VEVENT
+UID:be0df9dc1704@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261201T190000
+DTEND;TZID=Europe/London:20261201T210000
+SUMMARY:Courtney Pine: Out of the Ghetto · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/courtney-pine-out-of-the-ghetto-london-01-12-2026/event/2300652F103B2211
+URL:https://www.ticketmaster.co.uk/courtney-pine-out-of-the-ghetto-london-01-12-2026/event/2300652F103B2211
+END:VEVENT
+BEGIN:VEVENT
 UID:b30a19f2f399@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261201T203000
 DTEND;TZID=Europe/London:20261201T223000
 SUMMARY:The Best Of Natalie Williams' Soul Family · Ronnie Scott's
@@ -997,8 +2130,30 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/the-best-of-na
 URL:https://www.ronniescotts.co.uk/find-a-show/the-best-of-natalie-williams-soul-family
 END:VEVENT
 BEGIN:VEVENT
+UID:b777c5a46a8c@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261201T213000
+DTEND;TZID=Europe/London:20261201T233000
+SUMMARY:Courtney Pine: Out of the Ghetto · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/courtney-pine-out-of-the-ghetto-london-01-12-2026/event/2300652F103F2213
+URL:https://www.ticketmaster.co.uk/courtney-pine-out-of-the-ghetto-london-01-12-2026/event/2300652F103F2213
+END:VEVENT
+BEGIN:VEVENT
+UID:767fcafc0632@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261202T190000
+DTEND;TZID=Europe/London:20261202T210000
+SUMMARY:Theon Cross · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/theon-cross-london-02-12-2026/event/23006527B1C827A6
+URL:https://www.ticketmaster.co.uk/theon-cross-london-02-12-2026/event/23006527B1C827A6
+END:VEVENT
+BEGIN:VEVENT
 UID:738c6c2f8485@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261202T203000
 DTEND;TZID=Europe/London:20261202T223000
 SUMMARY:The Best Of Natalie Williams' Soul Family · Ronnie Scott's
@@ -1008,8 +2163,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/the-best-of-na
 URL:https://www.ronniescotts.co.uk/find-a-show/the-best-of-natalie-williams-soul-family
 END:VEVENT
 BEGIN:VEVENT
+UID:64f1c950f738@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261202T213000
+DTEND;TZID=Europe/London:20261202T233000
+SUMMARY:Theon Cross · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/theon-cross-london-02-12-2026/event/23006527B1CA27A8
+URL:https://www.ticketmaster.co.uk/theon-cross-london-02-12-2026/event/23006527B1CA27A8
+END:VEVENT
+BEGIN:VEVENT
 UID:96fd6e4cf3bd@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261202T231500
 DTEND;TZID=Europe/London:20261203T011500
 SUMMARY:Late Late Show hosted by Mark Kavuma's Banger Factory · Ronnie Scott's
@@ -1019,8 +2185,19 @@ DESCRIPTION:Late Late Show. https://www.ronniescotts.co.uk/find-a-show/late-late
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-mark-kavuma
 END:VEVENT
 BEGIN:VEVENT
+UID:41cd3d335833@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261203T190000
+DTEND;TZID=Europe/London:20261203T210000
+SUMMARY:Eerf Evil · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:UK Jazz Rap. https://thejazzcafe.com/event/eerf-evil/
+URL:https://thejazzcafe.com/event/eerf-evil/
+END:VEVENT
+BEGIN:VEVENT
 UID:d3571c3631da@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261203T224500
 DTEND;TZID=Europe/London:20261204T004500
 SUMMARY:Late Late Show Upstairs with Cosmic Fusion · Ronnie Scott's
@@ -1031,7 +2208,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/cosmic-fusion-late-show
 END:VEVENT
 BEGIN:VEVENT
 UID:b32cd5a85b8f@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261203T231500
 DTEND;TZID=Europe/London:20261204T011500
 SUMMARY:Late Late Show hosted by Patterns · Ronnie Scott's
@@ -1041,8 +2218,63 @@ DESCRIPTION:Late Late Show. https://www.ronniescotts.co.uk/find-a-show/late-late
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-patterns-2
 END:VEVENT
 BEGIN:VEVENT
+UID:cf06f34f2f02@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261204T170000
+DTEND;TZID=Europe/London:20261204T190000
+SUMMARY:The Allergies Live (Early Show) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Feel-Good Funk. https://thejazzcafe.com/event/the-allergies-live-early-show/
+URL:https://thejazzcafe.com/event/the-allergies-live-early-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:aafe4485b7fa@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261204T190000
+DTEND;TZID=Europe/London:20261204T210000
+SUMMARY:Waaju X Majid Bekkas · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/waaju-x-majid-bekkas-london-04-12-2026/event/23006505BF5D0C94
+URL:https://www.ticketmaster.co.uk/waaju-x-majid-bekkas-london-04-12-2026/event/23006505BF5D0C94
+END:VEVENT
+BEGIN:VEVENT
+UID:2225fca10e4e@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261204T200000
+DTEND;TZID=Europe/London:20261204T220000
+SUMMARY:The Allergies (Late Show) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Feel-Good Funk. https://thejazzcafe.com/event/the-allergies-late-show/
+URL:https://thejazzcafe.com/event/the-allergies-late-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:23e81bd31ba2@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261204T213000
+DTEND;TZID=Europe/London:20261204T233000
+SUMMARY:Waaju X Majid Bekkas · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/waaju-x-majid-bekkas-london-04-12-2026/event/23006505BF5E0C96
+URL:https://www.ticketmaster.co.uk/waaju-x-majid-bekkas-london-04-12-2026/event/23006505BF5E0C96
+END:VEVENT
+BEGIN:VEVENT
+UID:a6013390a81e@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261204T230000
+DTEND;TZID=Europe/London:20261205T010000
+SUMMARY:Nubiyan Twist presents: NT Soundsystem · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Afro-Jazz Club Sounds. https://thejazzcafe.com/event/nubiyan-twist-presents-nt-soundsystem/
+URL:https://thejazzcafe.com/event/nubiyan-twist-presents-nt-soundsystem/
+END:VEVENT
+BEGIN:VEVENT
 UID:2abcf506b167@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261204T231500
 DTEND;TZID=Europe/London:20261205T011500
 SUMMARY:Late Late Show with Future Movers · Ronnie Scott's
@@ -1052,8 +2284,30 @@ DESCRIPTION:Late Late Show. https://www.ronniescotts.co.uk/find-a-show/late-late
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-the-future-movers
 END:VEVENT
 BEGIN:VEVENT
+UID:bb970e54ac7a@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261205T190000
+DTEND;TZID=Europe/London:20261205T210000
+SUMMARY:Cory Henry Presents: A Jam Good Time · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/cory-henry-presents-a-jam-good-london-05-12-2026/event/2300650592710905
+URL:https://www.ticketmaster.co.uk/cory-henry-presents-a-jam-good-london-05-12-2026/event/2300650592710905
+END:VEVENT
+BEGIN:VEVENT
+UID:4623fb796fa5@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261205T213000
+DTEND;TZID=Europe/London:20261205T233000
+SUMMARY:Cory Henry Presents: A Jam Good Time · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/cory-henry-presents-a-jam-good-london-05-12-2026/event/230065059272090D
+URL:https://www.ticketmaster.co.uk/cory-henry-presents-a-jam-good-london-05-12-2026/event/230065059272090D
+END:VEVENT
+BEGIN:VEVENT
 UID:bd370fc11a42@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261205T224500
 DTEND;TZID=Europe/London:20261206T004500
 SUMMARY:Late Late Show Upstairs with The Nest Sessions · Ronnie Scott's
@@ -1064,7 +2318,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-upstairs-with-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:8f1afb5a6188@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261205T231500
 DTEND;TZID=Europe/London:20261206T011500
 SUMMARY:Late Late Show with Future Movers · Ronnie Scott's
@@ -1074,8 +2328,52 @@ DESCRIPTION:Late Late Show. https://www.ronniescotts.co.uk/find-a-show/late-late
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-the-future-movers
 END:VEVENT
 BEGIN:VEVENT
+UID:9c60d0a84982@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261206T190000
+DTEND;TZID=Europe/London:20261206T210000
+SUMMARY:Cory Henry Presents: A Jam Good Time · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/cory-henry-presents-a-jam-good-london-06-12-2026/event/230065059273090F
+URL:https://www.ticketmaster.co.uk/cory-henry-presents-a-jam-good-london-06-12-2026/event/230065059273090F
+END:VEVENT
+BEGIN:VEVENT
+UID:1d595faabfd8@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261206T213000
+DTEND;TZID=Europe/London:20261206T233000
+SUMMARY:Cory Henry Presents: A Jam Good Time · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/cory-henry-presents-a-jam-good-london-06-12-2026/event/2300650592750913
+URL:https://www.ticketmaster.co.uk/cory-henry-presents-a-jam-good-london-06-12-2026/event/2300650592750913
+END:VEVENT
+BEGIN:VEVENT
+UID:7a146299acf2@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261207T190000
+DTEND;TZID=Europe/London:20261207T210000
+SUMMARY:Cory Henry Presents: A Jam Good Time · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/cory-henry-presents-a-jam-good-london-07-12-2026/event/2300650592760917
+URL:https://www.ticketmaster.co.uk/cory-henry-presents-a-jam-good-london-07-12-2026/event/2300650592760917
+END:VEVENT
+BEGIN:VEVENT
+UID:2931623a650e@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261207T213000
+DTEND;TZID=Europe/London:20261207T233000
+SUMMARY:Cory Henry Presents: A Jam Good Time · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/cory-henry-presents-a-jam-good-london-07-12-2026/event/2300650592780919
+URL:https://www.ticketmaster.co.uk/cory-henry-presents-a-jam-good-london-07-12-2026/event/2300650592780919
+END:VEVENT
+BEGIN:VEVENT
 UID:af1c4d393c49@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261207T224500
 DTEND;TZID=Europe/London:20261208T004500
 SUMMARY:Late Late Soul Sessions Upstairs with SAHRA · Ronnie Scott's
@@ -1085,8 +2383,52 @@ DESCRIPTION:Late Late Show Upstairs. https://www.ronniescotts.co.uk/find-a-show/
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-soul-sessions-sahra
 END:VEVENT
 BEGIN:VEVENT
+UID:e4e739478338@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261208T190000
+DTEND;TZID=Europe/London:20261208T210000
+SUMMARY:Kahil El’zabar & Isaiah Collier · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/kahil-elzabar-isaiah-collier-london-08-12-2026/event/2300650D8F004909
+URL:https://www.ticketmaster.co.uk/kahil-elzabar-isaiah-collier-london-08-12-2026/event/2300650D8F004909
+END:VEVENT
+BEGIN:VEVENT
+UID:43f212459240@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261208T213000
+DTEND;TZID=Europe/London:20261208T233000
+SUMMARY:Kahil El’zabar & Isaiah Collier · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/kahil-elzabar-isaiah-collier-london-08-12-2026/event/2300650D8F02490F
+URL:https://www.ticketmaster.co.uk/kahil-elzabar-isaiah-collier-london-08-12-2026/event/2300650D8F02490F
+END:VEVENT
+BEGIN:VEVENT
+UID:17bd02ce1b22@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261209T190000
+DTEND;TZID=Europe/London:20261209T210000
+SUMMARY:Ziggy Zeitgeist & Friends · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:Tickets On Sale Fri 2nd Oct. https://www.ticketmaster.co.uk/ziggy-zeitgeist-friends-london-09-12-2026/event/230065397DE709B8
+URL:https://www.ticketmaster.co.uk/ziggy-zeitgeist-friends-london-09-12-2026/event/230065397DE709B8
+END:VEVENT
+BEGIN:VEVENT
+UID:716bfa43f28e@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261209T213000
+DTEND;TZID=Europe/London:20261209T233000
+SUMMARY:Ziggy Zeitgeist & Friends · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:Tickets On Sale Fri 2nd Oct. https://www.ticketmaster.co.uk/ziggy-zeitgeist-friends-london-09-12-2026/event/230065397DE909BA
+URL:https://www.ticketmaster.co.uk/ziggy-zeitgeist-friends-london-09-12-2026/event/230065397DE909BA
+END:VEVENT
+BEGIN:VEVENT
 UID:a1369c57914f@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261210T173000
 DTEND;TZID=Europe/London:20261210T193000
 SUMMARY:Omar · Ronnie Scott's
@@ -1097,7 +2439,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/omar
 END:VEVENT
 BEGIN:VEVENT
 UID:1a649aca0d10@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261210T203000
 DTEND;TZID=Europe/London:20261210T223000
 SUMMARY:Omar · Ronnie Scott's
@@ -1108,7 +2450,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/omar
 END:VEVENT
 BEGIN:VEVENT
 UID:35ba63a87e28@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261210T231500
 DTEND;TZID=Europe/London:20261211T011500
 SUMMARY:Late Late Show hosted by Jackson Mathod · Ronnie Scott's
@@ -1119,7 +2461,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-jackson-
 END:VEVENT
 BEGIN:VEVENT
 UID:481a9c23606f@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261211T170000
 DTEND;TZID=Europe/London:20261211T190000
 SUMMARY:Blue Lab Beats · Ronnie Scott's
@@ -1130,7 +2472,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/blue-lab-beats
 END:VEVENT
 BEGIN:VEVENT
 UID:678fd2bedc62@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261211T173000
 DTEND;TZID=Europe/London:20261211T193000
 SUMMARY:Omar · Ronnie Scott's
@@ -1140,8 +2482,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/omar
 URL:https://www.ronniescotts.co.uk/find-a-show/omar
 END:VEVENT
 BEGIN:VEVENT
+UID:359d314f03e2@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261211T183000
+DTEND;TZID=Europe/London:20261211T203000
+SUMMARY:Cut Capers · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:High-Energy Funk Collective. https://thejazzcafe.com/event/cut-capers/
+URL:https://thejazzcafe.com/event/cut-capers/
+END:VEVENT
+BEGIN:VEVENT
 UID:02750699075f@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261211T201500
 DTEND;TZID=Europe/London:20261211T221500
 SUMMARY:Blue Lab Beats · Ronnie Scott's
@@ -1152,7 +2505,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/blue-lab-beats
 END:VEVENT
 BEGIN:VEVENT
 UID:7ce28435decf@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261211T231500
 DTEND;TZID=Europe/London:20261212T011500
 SUMMARY:Late Late Electronic hosted by Chiminyo · Ronnie Scott's
@@ -1162,8 +2515,74 @@ DESCRIPTION:Late Late Show. https://www.ronniescotts.co.uk/find-a-show/late-late
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-electronic-chiminyo
 END:VEVENT
 BEGIN:VEVENT
+UID:8325d3caf55f@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261212T183000
+DTEND;TZID=Europe/London:20261212T203000
+SUMMARY:The Music of Aretha Franklin · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:The Queen of Soul. https://thejazzcafe.com/event/the-music-of-aretha-franklin/
+URL:https://thejazzcafe.com/event/the-music-of-aretha-franklin/
+END:VEVENT
+BEGIN:VEVENT
+UID:0e0cb4c1b763@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261213T213000
+DTEND;TZID=Europe/London:20261213T233000
+SUMMARY:The Brand New Heavies · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/brand-new-heavies-london-13-12-2026/event/23006504E2470DDA
+URL:https://www.ticketmaster.co.uk/brand-new-heavies-london-13-12-2026/event/23006504E2470DDA
+END:VEVENT
+BEGIN:VEVENT
+UID:e37b6c6c5289@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261214T190000
+DTEND;TZID=Europe/London:20261214T210000
+SUMMARY:The Brand New Heavies · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/brand-new-heavies-london-14-12-2026/event/23006504E2490DDC
+URL:https://www.ticketmaster.co.uk/brand-new-heavies-london-14-12-2026/event/23006504E2490DDC
+END:VEVENT
+BEGIN:VEVENT
+UID:88e69d887bc1@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261214T213000
+DTEND;TZID=Europe/London:20261214T233000
+SUMMARY:The Brand New Heavies · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/brand-new-heavies-london-14-12-2026/event/23006504E24B0DE0
+URL:https://www.ticketmaster.co.uk/brand-new-heavies-london-14-12-2026/event/23006504E24B0DE0
+END:VEVENT
+BEGIN:VEVENT
+UID:0110fa6f9739@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261215T190000
+DTEND;TZID=Europe/London:20261215T210000
+SUMMARY:The Brand New Heavies · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/brand-new-heavies-london-15-12-2026/event/23006504E24D0DE5
+URL:https://www.ticketmaster.co.uk/brand-new-heavies-london-15-12-2026/event/23006504E24D0DE5
+END:VEVENT
+BEGIN:VEVENT
+UID:b95a044222ad@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261215T213000
+DTEND;TZID=Europe/London:20261215T233000
+SUMMARY:The Brand New Heavies · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/brand-new-heavies-london-15-12-2026/event/23006504E2500DEB
+URL:https://www.ticketmaster.co.uk/brand-new-heavies-london-15-12-2026/event/23006504E2500DEB
+END:VEVENT
+BEGIN:VEVENT
 UID:69482165e738@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261217T173000
 DTEND;TZID=Europe/London:20261217T193000
 SUMMARY:Soul Vaccination - Laurence Cottle Big Band play Tower of Power · Ronnie Scott's
@@ -1173,8 +2592,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/laurence-cottl
 URL:https://www.ronniescotts.co.uk/find-a-show/laurence-cottle
 END:VEVENT
 BEGIN:VEVENT
+UID:322cc6d1ec65@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261217T190000
+DTEND;TZID=Europe/London:20261217T210000
+SUMMARY:Reuben James · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:Tickets On Sale Fri 2nd Oct. https://www.ticketmaster.co.uk/reuben-james-london-17-12-2026/event/23006539DF4B2057
+URL:https://www.ticketmaster.co.uk/reuben-james-london-17-12-2026/event/23006539DF4B2057
+END:VEVENT
+BEGIN:VEVENT
 UID:351e2058d8e8@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261217T203000
 DTEND;TZID=Europe/London:20261217T223000
 SUMMARY:Soul Vaccination - Laurence Cottle Big Band play Tower of Power · Ronnie Scott's
@@ -1184,8 +2614,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/laurence-cottl
 URL:https://www.ronniescotts.co.uk/find-a-show/laurence-cottle
 END:VEVENT
 BEGIN:VEVENT
+UID:d561406f56e4@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261217T213000
+DTEND;TZID=Europe/London:20261217T233000
+SUMMARY:Reuben James · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:Tickets On Sale Fri 2nd Oct. https://www.ticketmaster.co.uk/reuben-james-london-17-12-2026/event/23006539DF4D2059
+URL:https://www.ticketmaster.co.uk/reuben-james-london-17-12-2026/event/23006539DF4D2059
+END:VEVENT
+BEGIN:VEVENT
 UID:299fd976bb64@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261217T224500
 DTEND;TZID=Europe/London:20261218T004500
 SUMMARY:Late Late Show Upstairs with Cosmic Fusion · Ronnie Scott's
@@ -1196,7 +2637,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/cosmic-fusion-late-show
 END:VEVENT
 BEGIN:VEVENT
 UID:f1f0e08d4b38@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261217T231500
 DTEND;TZID=Europe/London:20261218T011500
 SUMMARY:Late Late Show hosted by Myele Manzanza · Ronnie Scott's
@@ -1206,8 +2647,19 @@ DESCRIPTION:Late Late Show. https://www.ronniescotts.co.uk/find-a-show/late-late
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-myele-manzanza
 END:VEVENT
 BEGIN:VEVENT
+UID:fdc23eae58cc@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261218T170000
+DTEND;TZID=Europe/London:20261218T190000
+SUMMARY:Mica Paris (Early Show) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:The UK's Soul Queen. https://thejazzcafe.com/event/mica-paris-early-show/
+URL:https://thejazzcafe.com/event/mica-paris-early-show/
+END:VEVENT
+BEGIN:VEVENT
 UID:1ea735cdfff3@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261218T173000
 DTEND;TZID=Europe/London:20261218T193000
 SUMMARY:Soul Vaccination - Laurence Cottle Big Band play Tower of Power · Ronnie Scott's
@@ -1217,8 +2669,30 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/laurence-cottl
 URL:https://www.ronniescotts.co.uk/find-a-show/laurence-cottle
 END:VEVENT
 BEGIN:VEVENT
+UID:6540a32bd19d@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261218T190000
+DTEND;TZID=Europe/London:20261218T210000
+SUMMARY:Digable Planets · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/digable-planets-london-18-12-2026/event/230065149F3E0A26
+URL:https://www.ticketmaster.co.uk/digable-planets-london-18-12-2026/event/230065149F3E0A26
+END:VEVENT
+BEGIN:VEVENT
+UID:3397ae428642@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261218T194500
+DTEND;TZID=Europe/London:20261218T214500
+SUMMARY:Mica Paris (Late Show) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:The UK's Soul Queen. https://thejazzcafe.com/event/mica-paris-late-show/
+URL:https://thejazzcafe.com/event/mica-paris-late-show/
+END:VEVENT
+BEGIN:VEVENT
 UID:e4d60d2ea58a@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261218T203000
 DTEND;TZID=Europe/London:20261218T223000
 SUMMARY:Soul Vaccination - Laurence Cottle Big Band play Tower of Power · Ronnie Scott's
@@ -1228,8 +2702,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/laurence-cottl
 URL:https://www.ronniescotts.co.uk/find-a-show/laurence-cottle
 END:VEVENT
 BEGIN:VEVENT
+UID:7f2d0dfe194c@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261218T213000
+DTEND;TZID=Europe/London:20261218T233000
+SUMMARY:Digable Planets · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/digable-planets-london-18-12-2026/event/230065149F3F0A2B
+URL:https://www.ticketmaster.co.uk/digable-planets-london-18-12-2026/event/230065149F3F0A2B
+END:VEVENT
+BEGIN:VEVENT
 UID:ba349da88f91@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261219T170000
 DTEND;TZID=Europe/London:20261219T190000
 SUMMARY:Vula presents: The Request Line · Ronnie Scott's
@@ -1239,8 +2724,19 @@ DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/vul
 URL:https://www.ronniescotts.co.uk/find-a-show/vula-presents-the-request-line
 END:VEVENT
 BEGIN:VEVENT
+UID:8e263d6a617d@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261219T190000
+DTEND;TZID=Europe/London:20261219T210000
+SUMMARY:Digable Planets · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/digable-planets-london-19-12-2026/event/230065149F410A2E
+URL:https://www.ticketmaster.co.uk/digable-planets-london-19-12-2026/event/230065149F410A2E
+END:VEVENT
+BEGIN:VEVENT
 UID:7c2e361e70c8@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261219T201500
 DTEND;TZID=Europe/London:20261219T221500
 SUMMARY:Vula presents: The Request Line · Ronnie Scott's
@@ -1250,8 +2746,52 @@ DESCRIPTION:Upstairs at Ronnie's. https://www.ronniescotts.co.uk/find-a-show/vul
 URL:https://www.ronniescotts.co.uk/find-a-show/vula-presents-the-request-line
 END:VEVENT
 BEGIN:VEVENT
+UID:f466914b9c15@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261219T213000
+DTEND;TZID=Europe/London:20261219T233000
+SUMMARY:Digable Planets · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/digable-planets-london-19-12-2026/event/230065149F440A31
+URL:https://www.ticketmaster.co.uk/digable-planets-london-19-12-2026/event/230065149F440A31
+END:VEVENT
+BEGIN:VEVENT
+UID:3665c4d79f4b@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261220T213000
+DTEND;TZID=Europe/London:20261220T233000
+SUMMARY:The Brand New Heavies · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/brand-new-heavies-london-20-12-2026/event/23006504F3960E27
+URL:https://www.ticketmaster.co.uk/brand-new-heavies-london-20-12-2026/event/23006504F3960E27
+END:VEVENT
+BEGIN:VEVENT
+UID:ca1f60002250@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261221T190000
+DTEND;TZID=Europe/London:20261221T210000
+SUMMARY:The Brand New Heavies · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/brand-new-heavies-london-21-12-2026/event/23006504F3980E2E
+URL:https://www.ticketmaster.co.uk/brand-new-heavies-london-21-12-2026/event/23006504F3980E2E
+END:VEVENT
+BEGIN:VEVENT
+UID:562505d9bbae@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261221T213000
+DTEND;TZID=Europe/London:20261221T233000
+SUMMARY:The Brand New Heavies · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/brand-new-heavies-london-21-12-2026/event/23006504F3990E31
+URL:https://www.ticketmaster.co.uk/brand-new-heavies-london-21-12-2026/event/23006504F3990E31
+END:VEVENT
+BEGIN:VEVENT
 UID:3aab7b1f9fba@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261221T224500
 DTEND;TZID=Europe/London:20261222T004500
 SUMMARY:Late Late Soul Sessions Upstairs with Imaani · Ronnie Scott's
@@ -1261,8 +2801,52 @@ DESCRIPTION:Late Late Show Upstairs. https://www.ronniescotts.co.uk/find-a-show/
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-soul-sessions-imaani
 END:VEVENT
 BEGIN:VEVENT
+UID:24e9be1f0740@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261222T190000
+DTEND;TZID=Europe/London:20261222T210000
+SUMMARY:The Brand New Heavies · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/brand-new-heavies-london-22-12-2026/event/23006504F39B0E33
+URL:https://www.ticketmaster.co.uk/brand-new-heavies-london-22-12-2026/event/23006504F39B0E33
+END:VEVENT
+BEGIN:VEVENT
+UID:ed24160f190e@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261222T213000
+DTEND;TZID=Europe/London:20261222T233000
+SUMMARY:The Brand New Heavies · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/brand-new-heavies-london-22-12-2026/event/23006504F39C0E35
+URL:https://www.ticketmaster.co.uk/brand-new-heavies-london-22-12-2026/event/23006504F39C0E35
+END:VEVENT
+BEGIN:VEVENT
+UID:1789814603ff@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261223T190000
+DTEND;TZID=Europe/London:20261223T210000
+SUMMARY:Joel Culpepper · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:Tickets On Sale Fri 2nd Oct. https://www.ticketmaster.co.uk/joel-culpepper-london-23-12-2026/event/23006538D3540FAE
+URL:https://www.ticketmaster.co.uk/joel-culpepper-london-23-12-2026/event/23006538D3540FAE
+END:VEVENT
+BEGIN:VEVENT
+UID:11ee6c2cf7a6@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261223T213000
+DTEND;TZID=Europe/London:20261223T233000
+SUMMARY:Joel Culpepper · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:Tickets On Sale Fri 2nd Oct. https://www.ticketmaster.co.uk/joel-culpepper-london-23-12-2026/event/23006538D3560FB0
+URL:https://www.ticketmaster.co.uk/joel-culpepper-london-23-12-2026/event/23006538D3560FB0
+END:VEVENT
+BEGIN:VEVENT
 UID:ee59b598586b@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261223T231500
 DTEND;TZID=Europe/London:20261224T011500
 SUMMARY:Late Late Show hosted by Jamie Murray · Ronnie Scott's
@@ -1272,8 +2856,19 @@ DESCRIPTION:Late Late Show. https://www.ronniescotts.co.uk/find-a-show/late-late
 URL:https://www.ronniescotts.co.uk/find-a-show/late-late-show-hosted-by-jamie-murray-2
 END:VEVENT
 BEGIN:VEVENT
+UID:d7a84ea16792@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261226T183000
+DTEND;TZID=Europe/London:20261226T203000
+SUMMARY:Forever Teena: Celebrating the Music of Teena Marie · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Remembering a Soul Icon. https://thejazzcafe.com/event/forever-teena-celebrating-the-music-of-teena-marie/
+URL:https://thejazzcafe.com/event/forever-teena-celebrating-the-music-of-teena-marie/
+END:VEVENT
+BEGIN:VEVENT
 UID:e858bfdcb8b6@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261227T183000
 DTEND;TZID=Europe/London:20261227T203000
 SUMMARY:W3 Funk Sessions · Ronnie Scott's
@@ -1283,8 +2878,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/w3-funk-sessio
 URL:https://www.ronniescotts.co.uk/find-a-show/w3-funk-sessions-3
 END:VEVENT
 BEGIN:VEVENT
+UID:7f8b6df087d6@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20261230T190000
+DTEND;TZID=Europe/London:20261230T210000
+SUMMARY:The Score Revisited - 30th Anniversary · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Celebrating The Fugees. https://thejazzcafe.com/event/the-score-revisited-30th-anniversary-2/
+URL:https://thejazzcafe.com/event/the-score-revisited-30th-anniversary-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:804fbc78d390@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261231T170000
 DTEND;TZID=Europe/London:20261231T190000
 SUMMARY:New Year's Eve Upstairs with Vanessa Haynes · Ronnie Scott's
@@ -1295,7 +2901,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/new-years-eve-upstairs-with-vanes
 END:VEVENT
 BEGIN:VEVENT
 UID:2901f619b621@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261231T180000
 DTEND;TZID=Europe/London:20261231T200000
 SUMMARY:New Year's Eve with Incognito · Ronnie Scott's
@@ -1306,7 +2912,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/new-years-eve-with-incognito
 END:VEVENT
 BEGIN:VEVENT
 UID:38108c446368@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261231T213000
 DTEND;TZID=Europe/London:20261231T233000
 SUMMARY:New Year's Eve Upstairs with Vanessa Haynes · Ronnie Scott's
@@ -1317,7 +2923,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/new-years-eve-upstairs-with-vanes
 END:VEVENT
 BEGIN:VEVENT
 UID:37f2ead92a47@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20261231T223000
 DTEND;TZID=Europe/London:20270101T003000
 SUMMARY:New Year's Eve with Incognito · Ronnie Scott's
@@ -1328,7 +2934,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/new-years-eve-with-incognito
 END:VEVENT
 BEGIN:VEVENT
 UID:72cf11f2f642@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270101T173000
 DTEND;TZID=Europe/London:20270101T193000
 SUMMARY:Dennis Rollins' Funky-Funk! · Ronnie Scott's
@@ -1338,8 +2944,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/dennis-rollins
 URL:https://www.ronniescotts.co.uk/find-a-show/dennis-rollins-funky-funk
 END:VEVENT
 BEGIN:VEVENT
+UID:e017b0856612@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270101T183000
+DTEND;TZID=Europe/London:20270101T203000
+SUMMARY:The Real Thing · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:UK Soul Pioneers. https://thejazzcafe.com/event/the-real-thing-8/
+URL:https://thejazzcafe.com/event/the-real-thing-8/
+END:VEVENT
+BEGIN:VEVENT
 UID:825511734e16@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270101T203000
 DTEND;TZID=Europe/London:20270101T223000
 SUMMARY:Dennis Rollins' Funky-Funk! · Ronnie Scott's
@@ -1349,8 +2966,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/dennis-rollins
 URL:https://www.ronniescotts.co.uk/find-a-show/dennis-rollins-funky-funk
 END:VEVENT
 BEGIN:VEVENT
+UID:f22ca6944cdf@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270102T183000
+DTEND;TZID=Europe/London:20270102T203000
+SUMMARY:The Real Thing · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:UK Soul Pioneers. https://thejazzcafe.com/event/the-real-thing-9/
+URL:https://thejazzcafe.com/event/the-real-thing-9/
+END:VEVENT
+BEGIN:VEVENT
 UID:09398836299e@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270104T173000
 DTEND;TZID=Europe/London:20270104T193000
 SUMMARY:Acantha Lang sings Gladys Knight · Ronnie Scott's
@@ -1361,7 +2989,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/acantha-lang-sings-gladys-knight
 END:VEVENT
 BEGIN:VEVENT
 UID:0653c2d472d5@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270104T203000
 DTEND;TZID=Europe/London:20270104T223000
 SUMMARY:Acantha Lang sings Gladys Knight · Ronnie Scott's
@@ -1371,8 +2999,41 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/acantha-lang-s
 URL:https://www.ronniescotts.co.uk/find-a-show/acantha-lang-sings-gladys-knight
 END:VEVENT
 BEGIN:VEVENT
+UID:ba8d40214788@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270107T190000
+DTEND;TZID=Europe/London:20270107T210000
+SUMMARY:Brandee Younger · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/brandee-younger-london-07-01-2027/event/23006504C2330A7F
+URL:https://www.ticketmaster.co.uk/brandee-younger-london-07-01-2027/event/23006504C2330A7F
+END:VEVENT
+BEGIN:VEVENT
+UID:0e0011e37511@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270107T213000
+DTEND;TZID=Europe/London:20270107T233000
+SUMMARY:Brandee Younger · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/brandee-younger-london-07-01-2027/event/23006504C2360A82
+URL:https://www.ticketmaster.co.uk/brandee-younger-london-07-01-2027/event/23006504C2360A82
+END:VEVENT
+BEGIN:VEVENT
+UID:91c7c636c15a@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270113T190000
+DTEND;TZID=Europe/London:20270113T210000
+SUMMARY:Salma's Tribute to Ziad Rahbani · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Lebanese Oriental Jazz. https://thejazzcafe.com/event/salmas-tribute-to-ziad-rahbani/
+URL:https://thejazzcafe.com/event/salmas-tribute-to-ziad-rahbani/
+END:VEVENT
+BEGIN:VEVENT
 UID:7887f8e6804e@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270123T173000
 DTEND;TZID=Europe/London:20270123T193000
 SUMMARY:Camilla George · Ronnie Scott's
@@ -1383,7 +3044,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/camilla-george
 END:VEVENT
 BEGIN:VEVENT
 UID:46390b35f488@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270123T203000
 DTEND;TZID=Europe/London:20270123T223000
 SUMMARY:Camilla George · Ronnie Scott's
@@ -1394,7 +3055,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/camilla-george
 END:VEVENT
 BEGIN:VEVENT
 UID:14cbf8313ddd@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270127T173000
 DTEND;TZID=Europe/London:20270127T193000
 SUMMARY:Izo FitzRoy · Ronnie Scott's
@@ -1405,7 +3066,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/izo-fitzroy
 END:VEVENT
 BEGIN:VEVENT
 UID:02432425c4a6@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270127T203000
 DTEND;TZID=Europe/London:20270127T223000
 SUMMARY:Izo FitzRoy · Ronnie Scott's
@@ -1415,8 +3076,30 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/izo-fitzroy
 URL:https://www.ronniescotts.co.uk/find-a-show/izo-fitzroy
 END:VEVENT
 BEGIN:VEVENT
+UID:18a1898e98f9@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270202T190000
+DTEND;TZID=Europe/London:20270202T210000
+SUMMARY:Sulaf · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Contemporary Sudanese Soul. https://thejazzcafe.com/event/sulaf/
+URL:https://thejazzcafe.com/event/sulaf/
+END:VEVENT
+BEGIN:VEVENT
+UID:3b0aa8dccac5@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270205T183000
+DTEND;TZID=Europe/London:20270205T203000
+SUMMARY:Karate Boogaloo · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Australian Instrumental Soul. https://thejazzcafe.com/event/karate-boogaloo/
+URL:https://thejazzcafe.com/event/karate-boogaloo/
+END:VEVENT
+BEGIN:VEVENT
 UID:c61f69adf540@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270212T173000
 DTEND;TZID=Europe/London:20270212T193000
 SUMMARY:Mats/Morgan/Henrik · Ronnie Scott's
@@ -1426,8 +3109,19 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/mats-morgan-he
 URL:https://www.ronniescotts.co.uk/find-a-show/mats-morgan-henrik
 END:VEVENT
 BEGIN:VEVENT
+UID:58f7ab27a686@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270212T183000
+DTEND;TZID=Europe/London:20270212T203000
+SUMMARY:The Egyptian Lover (Live) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Valentine's Day Party. https://thejazzcafe.com/event/the-egyptian-lover-live-2/
+URL:https://thejazzcafe.com/event/the-egyptian-lover-live-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:33d2f4071ccf@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270212T203000
 DTEND;TZID=Europe/London:20270212T223000
 SUMMARY:Mats/Morgan/Henrik · Ronnie Scott's
@@ -1437,8 +3131,41 @@ DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/mats-morgan-he
 URL:https://www.ronniescotts.co.uk/find-a-show/mats-morgan-henrik
 END:VEVENT
 BEGIN:VEVENT
+UID:78099f197164@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270214T190000
+DTEND;TZID=Europe/London:20270214T210000
+SUMMARY:Janet Kay & Carroll Thompson (Evening Show) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Queens of Lover's Rock. https://thejazzcafe.com/event/janet-kay-carroll-thompson-evening-show/
+URL:https://thejazzcafe.com/event/janet-kay-carroll-thompson-evening-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:b37a39722208@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270214T160000
+DTEND;TZID=Europe/London:20270214T180000
+SUMMARY:Janet Kay & Carroll Thompson (Matinee Show) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Queens of Lover's Rock. https://thejazzcafe.com/event/janet-kay-carroll-thompson-matinee-show/
+URL:https://thejazzcafe.com/event/janet-kay-carroll-thompson-matinee-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:c6f67cf69b06@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270216T190000
+DTEND;TZID=Europe/London:20270216T210000
+SUMMARY:The Herbaliser Band · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Jazz-Beat Moguls. https://thejazzcafe.com/event/the-herbaliser-band-2/
+URL:https://thejazzcafe.com/event/the-herbaliser-band-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:2966d27d45e4@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270217T173000
 DTEND;TZID=Europe/London:20270217T193000
 SUMMARY:Max Beesley's Groove Spectrum featuring Omar & Christian Sands · Ronnie Scott's
@@ -1449,7 +3176,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/max-beesley
 END:VEVENT
 BEGIN:VEVENT
 UID:3bc0acbd93b7@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270217T203000
 DTEND;TZID=Europe/London:20270217T223000
 SUMMARY:Max Beesley's Groove Spectrum featuring Omar & Christian Sands · Ronnie Scott's
@@ -1460,7 +3187,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/max-beesley
 END:VEVENT
 BEGIN:VEVENT
 UID:6c6a62c881b0@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270218T173000
 DTEND;TZID=Europe/London:20270218T193000
 SUMMARY:Max Beesley's Groove Spectrum featuring Omar & Christian Sands · Ronnie Scott's
@@ -1471,7 +3198,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/max-beesley
 END:VEVENT
 BEGIN:VEVENT
 UID:2cc4c79d3cdd@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270218T203000
 DTEND;TZID=Europe/London:20270218T223000
 SUMMARY:Max Beesley's Groove Spectrum featuring Omar & Christian Sands · Ronnie Scott's
@@ -1482,7 +3209,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/max-beesley
 END:VEVENT
 BEGIN:VEVENT
 UID:5e955f75967e@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270219T173000
 DTEND;TZID=Europe/London:20270219T193000
 SUMMARY:Max Beesley's Groove Spectrum featuring Omar & Christian Sands · Ronnie Scott's
@@ -1493,7 +3220,7 @@ URL:https://www.ronniescotts.co.uk/find-a-show/max-beesley
 END:VEVENT
 BEGIN:VEVENT
 UID:f9b7a08623ef@jazz-picks
-DTSTAMP:20261001T075709Z
+DTSTAMP:20261002T073806Z
 DTSTART;TZID=Europe/London:20270219T203000
 DTEND;TZID=Europe/London:20270219T223000
 SUMMARY:Max Beesley's Groove Spectrum featuring Omar & Christian Sands · Ronnie Scott's
@@ -1501,5 +3228,148 @@ LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
 TRANSP:TRANSPARENT
 DESCRIPTION:Main Show. https://www.ronniescotts.co.uk/find-a-show/max-beesley
 URL:https://www.ronniescotts.co.uk/find-a-show/max-beesley
+END:VEVENT
+BEGIN:VEVENT
+UID:73785c9dcda0@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270220T183000
+DTEND;TZID=Europe/London:20270220T203000
+SUMMARY:Northern Soul Live · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:The Sound That Shaped a Generation. https://thejazzcafe.com/event/northern-soul-live-2/
+URL:https://thejazzcafe.com/event/northern-soul-live-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:fc1e795ec720@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270225T190000
+DTEND;TZID=Europe/London:20270225T210000
+SUMMARY:Àbáse · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Spiritual Jazz Meets Afrobeat. https://thejazzcafe.com/event/abase/
+URL:https://thejazzcafe.com/event/abase/
+END:VEVENT
+BEGIN:VEVENT
+UID:076143b7dccc@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270227T190000
+DTEND;TZID=Europe/London:20270227T210000
+SUMMARY:Keyon Harrold · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/keyon-harrold-london-27-02-2027/event/23006505924408F8
+URL:https://www.ticketmaster.co.uk/keyon-harrold-london-27-02-2027/event/23006505924408F8
+END:VEVENT
+BEGIN:VEVENT
+UID:0e4b737590e7@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270227T213000
+DTEND;TZID=Europe/London:20270227T233000
+SUMMARY:Keyon Harrold · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/keyon-harrold-london-27-02-2027/event/23006505924608FA
+URL:https://www.ticketmaster.co.uk/keyon-harrold-london-27-02-2027/event/23006505924608FA
+END:VEVENT
+BEGIN:VEVENT
+UID:f8dd170dfd5a@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270228T190000
+DTEND;TZID=Europe/London:20270228T210000
+SUMMARY:Keyon Harrold · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/keyon-harrold-london-28-02-2027/event/23006505924808FC
+URL:https://www.ticketmaster.co.uk/keyon-harrold-london-28-02-2027/event/23006505924808FC
+END:VEVENT
+BEGIN:VEVENT
+UID:95f717451d68@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270228T213000
+DTEND;TZID=Europe/London:20270228T233000
+SUMMARY:Keyon Harrold · Blue Note
+LOCATION:Blue Note London\, 5 St Martin's Lane\, WC2N 4AL
+TRANSP:TRANSPARENT
+DESCRIPTION:https://www.ticketmaster.co.uk/keyon-harrold-london-28-02-2027/event/23006505924A08FF
+URL:https://www.ticketmaster.co.uk/keyon-harrold-london-28-02-2027/event/23006505924A08FF
+END:VEVENT
+BEGIN:VEVENT
+UID:17bbbe360745@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270313T190000
+DTEND;TZID=Europe/London:20270313T210000
+SUMMARY:The Next Movement · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Hard-Funk Trio. https://thejazzcafe.com/event/the-next-movement/
+URL:https://thejazzcafe.com/event/the-next-movement/
+END:VEVENT
+BEGIN:VEVENT
+UID:fe3635656094@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270326T190000
+DTEND;TZID=Europe/London:20270326T210000
+SUMMARY:Teddy Pendergrass: Birthday Party · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Legendary Soul Singer. https://thejazzcafe.com/event/teddy-pendergrass-birthday-party-2/
+URL:https://thejazzcafe.com/event/teddy-pendergrass-birthday-party-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:78113abcd2fb@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270402T190000
+DTEND;TZID=Europe/London:20270402T210000
+SUMMARY:Osibisa · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:High-Energy Afro-Rock. https://thejazzcafe.com/event/osibisa-3/
+URL:https://thejazzcafe.com/event/osibisa-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:4d993ca8b521@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270506T190000
+DTEND;TZID=Europe/London:20270506T210000
+SUMMARY:Red Snapper · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Genre Blurring Jazz. https://thejazzcafe.com/event/red-snapper-2/
+URL:https://thejazzcafe.com/event/red-snapper-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:11ac06882d46@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270513T190000
+DTEND;TZID=Europe/London:20270513T210000
+SUMMARY:Stevie Wonder's Birthday Party (Early Show) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Celebrating Soul Greatness. https://thejazzcafe.com/event/stevie-wonders-birthday-party-early-show/
+URL:https://thejazzcafe.com/event/stevie-wonders-birthday-party-early-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a1e07b478df@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270513T190000
+DTEND;TZID=Europe/London:20270513T210000
+SUMMARY:Stevie Wonder's Birthday Party (Late Show) · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Celebrating Soul Greatness. https://thejazzcafe.com/event/stevie-wonders-birthday-party-late-show/
+URL:https://thejazzcafe.com/event/stevie-wonders-birthday-party-late-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:07a79b60c24c@jazz-picks
+DTSTAMP:20261002T073806Z
+DTSTART;TZID=Europe/London:20270601T190000
+DTEND;TZID=Europe/London:20270601T210000
+SUMMARY:The Curtom Orchestra presents Curtis Mayfield · Jazz Cafe
+LOCATION:Ronnie Scott's\, 47 Frith St\, W1D 4HT
+TRANSP:TRANSPARENT
+DESCRIPTION:Soul Pioneer. https://thejazzcafe.com/event/the-curtom-orchestra-presents-curtis-mayfield-2/
+URL:https://thejazzcafe.com/event/the-curtom-orchestra-presents-curtis-mayfield-2/
 END:VEVENT
 END:VCALENDAR
