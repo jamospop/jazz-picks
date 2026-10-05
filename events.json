@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T08:37",
+ "updated": "2026-10-05T08:37",
  "picks": [
   {
    "id": "2a2dd63090e6",
@@ -394,20 +394,6 @@
    "first_seen": ""
   },
   {
-   "id": "030e024e0f33",
-   "venue": "Ronnie Scott's",
-   "room": "Main Show",
-   "title": "Lokkhi Terra feat. Dele Sosimi",
-   "date": "2026-10-16",
-   "time": "20:30",
-   "status": "available",
-   "note": "",
-   "url": "https://www.ronniescotts.co.uk/find-a-show/lokkhi-terra-feat-dele-sosimi",
-   "info": "https://www.ronniescotts.co.uk/find-a-show/lokkhi-terra-feat-dele-sosimi",
-   "unreviewed": false,
-   "first_seen": ""
-  },
-  {
    "id": "ea4f380cb33b",
    "venue": "Blue Note",
    "room": "",
@@ -758,20 +744,6 @@
    "first_seen": ""
   },
   {
-   "id": "64936cf72c78",
-   "venue": "Ronnie Scott's",
-   "room": "Main Show",
-   "title": "W3 Funk Sessions",
-   "date": "2026-10-25",
-   "time": "18:30",
-   "status": "available",
-   "note": "",
-   "url": "https://www.ronniescotts.co.uk/find-a-show/w3-funk-sessions-3",
-   "info": "https://www.ronniescotts.co.uk/find-a-show/w3-funk-sessions-3",
-   "unreviewed": false,
-   "first_seen": ""
-  },
-  {
    "id": "8a001b0bd91d",
    "venue": "Jazz Cafe",
    "room": "Alt-Vietnamese Ensemble",
@@ -786,7 +758,7 @@
    "first_seen": ""
   },
   {
-   "id": "33e9e916f90d",
+   "id": "109cfbf7a7ce",
    "venue": "Blue Note",
    "room": "",
    "title": "The Soul Rebels",
@@ -795,12 +767,12 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/the-soul-rebels-london-26-10-2026/event/23006504A37909A6",
-   "info": "https://www.bluenotejazz.com/london/tm-event/the-soul-rebels/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/the-soul-rebels-2/",
    "unreviewed": false,
    "first_seen": ""
   },
   {
-   "id": "21464d40c7b3",
+   "id": "c38b7bcb804d",
    "venue": "Blue Note",
    "room": "",
    "title": "The Soul Rebels",
@@ -809,7 +781,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/the-soul-rebels-london-26-10-2026/event/23006504A37B09AC",
-   "info": "https://www.bluenotejazz.com/london/tm-event/the-soul-rebels/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/the-soul-rebels-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -968,7 +940,7 @@
    "first_seen": ""
   },
   {
-   "id": "ec75533f5755",
+   "id": "c821a0afd4c4",
    "venue": "Blue Note",
    "room": "",
    "title": "Laura Mvula",
@@ -977,7 +949,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/laura-mvula-london-29-10-2026/event/2300650EFB61E3AC",
-   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -1024,7 +996,7 @@
    "first_seen": ""
   },
   {
-   "id": "94bb512414ce",
+   "id": "16b09ee0f28b",
    "venue": "Blue Note",
    "room": "",
    "title": "Laura Mvula",
@@ -1033,7 +1005,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/laura-mvula-london-30-10-2026/event/2300650EFB63E3BC",
-   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -1118,20 +1090,6 @@
    "note": "",
    "url": "https://www.ticketmaster.co.uk/milena-casado-london-31-10-2026/event/230064FDCBB91726",
    "info": "https://www.bluenotejazz.com/london/tm-event/milena-casado/",
-   "unreviewed": false,
-   "first_seen": ""
-  },
-  {
-   "id": "34067b7952da",
-   "venue": "Ronnie Scott's",
-   "room": "Upstairs at Ronnie's",
-   "title": "ShezAr & The Soul Sirens",
-   "date": "2026-10-31",
-   "time": "20:15",
-   "status": "available",
-   "note": "",
-   "url": "https://www.ronniescotts.co.uk/find-a-show/shezar-the-soul-sirens",
-   "info": "https://www.ronniescotts.co.uk/find-a-show/shezar-the-soul-sirens",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -1710,20 +1668,6 @@
    "first_seen": ""
   },
   {
-   "id": "e47d16b49f49",
-   "venue": "Ronnie Scott's",
-   "room": "Late Late Show Upstairs",
-   "title": "Late Late Show Upstairs at Ronnie's with 22a",
-   "date": "2026-11-14",
-   "time": "22:45",
-   "status": "available",
-   "note": "",
-   "url": "https://www.ronniescotts.co.uk/find-a-show/tenderlonious-upstairs-at-ronnies",
-   "info": "https://www.ronniescotts.co.uk/find-a-show/tenderlonious-upstairs-at-ronnies",
-   "unreviewed": false,
-   "first_seen": ""
-  },
-  {
    "id": "e076eb29e2e1",
    "venue": "Jazz Cafe",
    "room": "World-Class Southern Soul",
@@ -2284,7 +2228,7 @@
    "first_seen": ""
   },
   {
-   "id": "cbfe9458d00f",
+   "id": "79c198570e44",
    "venue": "Blue Note",
    "room": "",
    "title": "Jazzanova Live feat. Wayne Snow",
@@ -2293,7 +2237,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/jazzanova-live-feat-wayne-snow-london-26-11-2026/event/230065429BE90DAA",
-   "info": "https://www.bluenotejazz.com/london/tm-event/jazzanova-live-feat-wayne-snow-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/jazzanova-live-feat-wayne-snow/",
    "unreviewed": false,
    "first_seen": "2026-10-03"
   },
@@ -2326,7 +2270,7 @@
    "first_seen": ""
   },
   {
-   "id": "423c9ffe5553",
+   "id": "f1fa939f2456",
    "venue": "Blue Note",
    "room": "",
    "title": "Jazzanova Live feat. Wayne Snow",
@@ -2335,7 +2279,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/jazzanova-live-feat-wayne-snow-london-26-11-2026/event/230065429BEA0DAF",
-   "info": "https://www.bluenotejazz.com/london/tm-event/jazzanova-live-feat-wayne-snow-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/jazzanova-live-feat-wayne-snow/",
    "unreviewed": false,
    "first_seen": "2026-10-03"
   },
@@ -2368,7 +2312,7 @@
    "first_seen": ""
   },
   {
-   "id": "6cd7763add15",
+   "id": "88ec93d814cb",
    "venue": "Blue Note",
    "room": "",
    "title": "Jazzanova Live feat. Wayne Snow",
@@ -2377,9 +2321,9 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/jazzanova-live-feat-wayne-snow-london-27-11-2026/event/23006504BEE60A69",
-   "info": "https://www.bluenotejazz.com/london/tm-event/jazzanova-live-feat-wayne-snow-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/jazzanova-live-feat-wayne-snow/",
    "unreviewed": false,
-   "first_seen": "2026-10-03"
+   "first_seen": ""
   },
   {
    "id": "f0c97c091475",
@@ -2396,7 +2340,7 @@
    "first_seen": ""
   },
   {
-   "id": "51e56de1f8af",
+   "id": "309e91e85a54",
    "venue": "Blue Note",
    "room": "",
    "title": "Jazzanova Live feat. Wayne Snow",
@@ -2405,9 +2349,9 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/jazzanova-live-feat-wayne-snow-london-27-11-2026/event/23006504BEE70A6E",
-   "info": "https://www.bluenotejazz.com/london/tm-event/jazzanova-live-feat-wayne-snow-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/jazzanova-live-feat-wayne-snow/",
    "unreviewed": false,
-   "first_seen": "2026-10-03"
+   "first_seen": ""
   },
   {
    "id": "1c7116f684ea",
@@ -2536,7 +2480,7 @@
    "first_seen": ""
   },
   {
-   "id": "74bf02325f31",
+   "id": "52e9c455ada1",
    "venue": "Blue Note",
    "room": "",
    "title": "Tank and the Bangas",
@@ -2545,7 +2489,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/tank-and-the-bangas-london-29-11-2026/event/230065049DE10982",
-   "info": "https://www.bluenotejazz.com/london/tm-event/tank-and-the-bangas-2/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/tank-and-the-bangas/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -3502,7 +3446,7 @@
    "first_seen": ""
   },
   {
-   "id": "1789814603ff",
+   "id": "d83c705726f3",
    "venue": "Blue Note",
    "room": "",
    "title": "Joel Culpepper",
@@ -3511,12 +3455,12 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/joel-culpepper-london-23-12-2026/event/23006538D3540FAE",
-   "info": "https://www.bluenotejazz.com/london/tm-event/joel-culpepper-2/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/joel-culpepper/",
    "unreviewed": false,
    "first_seen": "2026-10-02"
   },
   {
-   "id": "11ee6c2cf7a6",
+   "id": "c8ecb533fee1",
    "venue": "Blue Note",
    "room": "",
    "title": "Joel Culpepper",
@@ -3525,7 +3469,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/joel-culpepper-london-23-12-2026/event/23006538D3560FB0",
-   "info": "https://www.bluenotejazz.com/london/tm-event/joel-culpepper-2/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/joel-culpepper/",
    "unreviewed": false,
    "first_seen": "2026-10-02"
   },
@@ -3866,6 +3810,20 @@
    "first_seen": ""
   },
   {
+   "id": "0f194c2ded5d",
+   "venue": "Jazz Cafe",
+   "room": "Valentine's Day Party",
+   "title": "The Egyptian Lover (Live)",
+   "date": "2027-02-12",
+   "time": "",
+   "status": "available",
+   "note": "",
+   "url": "https://thejazzcafe.com/event/the-egyptian-lover-live-2/",
+   "info": "https://thejazzcafe.com/event/the-egyptian-lover-live-2/",
+   "unreviewed": false,
+   "first_seen": "2026-10-05"
+  },
+  {
    "id": "c61f69adf540",
    "venue": "Ronnie Scott's",
    "room": "Main Show",
@@ -3876,20 +3834,6 @@
    "note": "",
    "url": "https://www.ronniescotts.co.uk/find-a-show/mats-morgan-henrik",
    "info": "https://www.ronniescotts.co.uk/find-a-show/mats-morgan-henrik",
-   "unreviewed": false,
-   "first_seen": ""
-  },
-  {
-   "id": "58f7ab27a686",
-   "venue": "Jazz Cafe",
-   "room": "Valentine's Day Party",
-   "title": "The Egyptian Lover (Live)",
-   "date": "2027-02-12",
-   "time": "18:30",
-   "status": "available",
-   "note": "",
-   "url": "https://thejazzcafe.com/event/the-egyptian-lover-live-2/",
-   "info": "https://thejazzcafe.com/event/the-egyptian-lover-live-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -3908,18 +3852,18 @@
    "first_seen": ""
   },
   {
-   "id": "b37a39722208",
+   "id": "69a7471ef684",
    "venue": "Jazz Cafe",
    "room": "Queens of Lover's Rock",
    "title": "Janet Kay & Carroll Thompson (Matinee Show)",
    "date": "2027-02-14",
-   "time": "16:00",
+   "time": "",
    "status": "available",
    "note": "",
    "url": "https://thejazzcafe.com/event/janet-kay-carroll-thompson-matinee-show/",
    "info": "https://thejazzcafe.com/event/janet-kay-carroll-thompson-matinee-show/",
    "unreviewed": false,
-   "first_seen": "2026-10-02"
+   "first_seen": "2026-10-05"
   },
   {
    "id": "b3c5e1f8b031",
@@ -3936,18 +3880,18 @@
    "first_seen": "2026-10-03"
   },
   {
-   "id": "c6f67cf69b06",
+   "id": "035ee2f0e965",
    "venue": "Jazz Cafe",
    "room": "Jazz-Beat Moguls",
    "title": "The Herbaliser Band",
    "date": "2027-02-16",
-   "time": "19:00",
+   "time": "",
    "status": "available",
    "note": "",
    "url": "https://thejazzcafe.com/event/the-herbaliser-band-2/",
    "info": "https://thejazzcafe.com/event/the-herbaliser-band-2/",
    "unreviewed": false,
-   "first_seen": ""
+   "first_seen": "2026-10-05"
   },
   {
    "id": "2966d27d45e4",
@@ -4034,18 +3978,18 @@
    "first_seen": ""
   },
   {
-   "id": "73785c9dcda0",
+   "id": "714a36829fc1",
    "venue": "Jazz Cafe",
    "room": "The Sound That Shaped a Generation",
    "title": "Northern Soul Live",
    "date": "2027-02-20",
-   "time": "18:30",
+   "time": "",
    "status": "available",
    "note": "",
    "url": "https://thejazzcafe.com/event/northern-soul-live-2/",
    "info": "https://thejazzcafe.com/event/northern-soul-live-2/",
    "unreviewed": false,
-   "first_seen": ""
+   "first_seen": "2026-10-05"
   },
   {
    "id": "fc1e795ec720",
@@ -4062,7 +4006,7 @@
    "first_seen": ""
   },
   {
-   "id": "076143b7dccc",
+   "id": "64e3ceddf16f",
    "venue": "Blue Note",
    "room": "",
    "title": "Keyon Harrold",
@@ -4071,12 +4015,12 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/keyon-harrold-london-27-02-2027/event/23006505924408F8",
-   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold-2/",
    "unreviewed": false,
    "first_seen": "2026-10-02"
   },
   {
-   "id": "0e4b737590e7",
+   "id": "b16e43573a2d",
    "venue": "Blue Note",
    "room": "",
    "title": "Keyon Harrold",
@@ -4085,12 +4029,12 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/keyon-harrold-london-27-02-2027/event/23006505924608FA",
-   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold-2/",
    "unreviewed": false,
    "first_seen": "2026-10-02"
   },
   {
-   "id": "f8dd170dfd5a",
+   "id": "6f0dc8f4646e",
    "venue": "Blue Note",
    "room": "",
    "title": "Keyon Harrold",
@@ -4099,12 +4043,12 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/keyon-harrold-london-28-02-2027/event/23006505924808FC",
-   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold-2/",
    "unreviewed": false,
    "first_seen": "2026-10-02"
   },
   {
-   "id": "95f717451d68",
+   "id": "d5e4145a5430",
    "venue": "Blue Note",
    "room": "",
    "title": "Keyon Harrold",
@@ -4113,7 +4057,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/keyon-harrold-london-28-02-2027/event/23006505924A08FF",
-   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold-2/",
    "unreviewed": false,
    "first_seen": "2026-10-02"
   },
@@ -4216,6 +4160,6 @@
    "first_seen": ""
   }
  ],
- "checked_shows": 510,
+ "checked_shows": 508,
  "pending_ig": 11
 }
