@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T10:20",
+ "updated": "2026-10-18T09:55",
  "picks": [
   {
    "id": "79db208c2660",
@@ -194,20 +194,6 @@
    "note": "",
    "url": "https://www.ronniescotts.co.uk/find-a-show/cosmic-fusion-late-show",
    "info": "https://www.ronniescotts.co.uk/find-a-show/cosmic-fusion-late-show",
-   "unreviewed": false,
-   "first_seen": ""
-  },
-  {
-   "id": "7d330b4ff58a",
-   "venue": "Ronnie Scott's",
-   "room": "Upstairs at Ronnie's",
-   "title": "AYRA featuring Janette Mason and Juliet Roberts",
-   "date": "2026-10-23",
-   "time": "17:00",
-   "status": "available",
-   "note": "",
-   "url": "https://www.ronniescotts.co.uk/find-a-show/ayra-featuring-janette-mason-and-juliet-roberts",
-   "info": "https://www.ronniescotts.co.uk/find-a-show/ayra-featuring-janette-mason-and-juliet-roberts",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -492,7 +478,7 @@
    "first_seen": ""
   },
   {
-   "id": "552b15d66064",
+   "id": "163aee38b7de",
    "venue": "Blue Note",
    "room": "",
    "title": "Laura Mvula",
@@ -501,7 +487,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/laura-mvula-london-29-10-2026/event/2300650EBD3BF79F",
-   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -534,7 +520,7 @@
    "first_seen": ""
   },
   {
-   "id": "ec75533f5755",
+   "id": "c821a0afd4c4",
    "venue": "Blue Note",
    "room": "",
    "title": "Laura Mvula",
@@ -543,7 +529,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/laura-mvula-london-29-10-2026/event/2300650EFB61E3AC",
-   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -590,7 +576,7 @@
    "first_seen": ""
   },
   {
-   "id": "94bb512414ce",
+   "id": "16b09ee0f28b",
    "venue": "Blue Note",
    "room": "",
    "title": "Laura Mvula",
@@ -599,7 +585,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/laura-mvula-london-30-10-2026/event/2300650EFB63E3BC",
-   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -618,7 +604,7 @@
    "first_seen": "2026-10-01"
   },
   {
-   "id": "574cc08e8843",
+   "id": "01c34be25396",
    "venue": "Blue Note",
    "room": "",
    "title": "Laura Mvula",
@@ -627,7 +613,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/laura-mvula-london-30-10-2026/event/2300650EFB65E3C8",
-   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -964,20 +950,6 @@
    "note": "",
    "url": "https://www.ronniescotts.co.uk/find-a-show/cosmic-fusion-late-show",
    "info": "https://www.ronniescotts.co.uk/find-a-show/cosmic-fusion-late-show",
-   "unreviewed": false,
-   "first_seen": ""
-  },
-  {
-   "id": "fba4e75a31b9",
-   "venue": "Ronnie Scott's",
-   "room": "Main Show",
-   "title": "Theo Croker",
-   "date": "2026-11-06",
-   "time": "17:30",
-   "status": "available",
-   "note": "",
-   "url": "https://www.ronniescotts.co.uk/find-a-show/theo-croker",
-   "info": "https://www.ronniescotts.co.uk/find-a-show/theo-croker",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -1976,7 +1948,7 @@
    "first_seen": ""
   },
   {
-   "id": "52e9c455ada1",
+   "id": "74bf02325f31",
    "venue": "Blue Note",
    "room": "",
    "title": "Tank and the Bangas",
@@ -1985,7 +1957,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/tank-and-the-bangas-london-29-11-2026/event/230065049DE10982",
-   "info": "https://www.bluenotejazz.com/london/tm-event/tank-and-the-bangas/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/tank-and-the-bangas-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -2102,7 +2074,7 @@
    "first_seen": ""
   },
   {
-   "id": "f6f68c4f86bc",
+   "id": "767fcafc0632",
    "venue": "Blue Note",
    "room": "",
    "title": "Theon Cross",
@@ -2111,7 +2083,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/theon-cross-london-02-12-2026/event/23006527B1C827A6",
-   "info": "https://www.bluenotejazz.com/london/tm-event/theon-cross/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/theon-cross-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -2130,7 +2102,7 @@
    "first_seen": ""
   },
   {
-   "id": "cc1bcfaa3532",
+   "id": "64f1c950f738",
    "venue": "Blue Note",
    "room": "",
    "title": "Theon Cross",
@@ -2139,7 +2111,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/theon-cross-london-02-12-2026/event/23006527B1CA27A8",
-   "info": "https://www.bluenotejazz.com/london/tm-event/theon-cross/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/theon-cross-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -2693,18 +2665,18 @@
    "id": "94879605cbc3",
    "venue": "Blue Note",
    "room": "",
-   "title": "The Brand New Heavies",
+   "title": "Brand New Heavies",
    "date": "2026-12-13",
    "time": "21:30",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-13-12-2026/event/23006504E2470DDA",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-6/",
-   "unreviewed": false,
+   "unreviewed": true,
    "first_seen": ""
   },
   {
-   "id": "e37b6c6c5289",
+   "id": "17549f6f6abd",
    "venue": "Blue Note",
    "room": "",
    "title": "Brand New Heavies",
@@ -2713,7 +2685,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-14-12-2026/event/23006504E2490DDC",
-   "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-3/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-6/",
    "unreviewed": true,
    "first_seen": ""
   },
@@ -2721,42 +2693,42 @@
    "id": "4f0ce0245c84",
    "venue": "Blue Note",
    "room": "",
-   "title": "The Brand New Heavies",
+   "title": "Brand New Heavies",
    "date": "2026-12-14",
    "time": "21:30",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-14-12-2026/event/23006504E24B0DE0",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-6/",
-   "unreviewed": false,
+   "unreviewed": true,
    "first_seen": ""
   },
   {
    "id": "c60f5161bdef",
    "venue": "Blue Note",
    "room": "",
-   "title": "The Brand New Heavies",
+   "title": "Brand New Heavies",
    "date": "2026-12-15",
    "time": "19:00",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-15-12-2026/event/23006504E24D0DE5",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-6/",
-   "unreviewed": false,
+   "unreviewed": true,
    "first_seen": ""
   },
   {
    "id": "d350471242f5",
    "venue": "Blue Note",
    "room": "",
-   "title": "The Brand New Heavies",
+   "title": "Brand New Heavies",
    "date": "2026-12-15",
    "time": "21:30",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-15-12-2026/event/23006504E2500DEB",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-6/",
-   "unreviewed": false,
+   "unreviewed": true,
    "first_seen": ""
   },
   {
@@ -2886,7 +2858,7 @@
    "first_seen": ""
   },
   {
-   "id": "c0a5eb8db98a",
+   "id": "62cb87547f63",
    "venue": "Blue Note",
    "room": "",
    "title": "Digable Planets",
@@ -2895,7 +2867,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/digable-planets-london-18-12-2026/event/230065149F3E0A26",
-   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets-4/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -2928,7 +2900,7 @@
    "first_seen": ""
   },
   {
-   "id": "a1e867dc84ca",
+   "id": "61856dc0f393",
    "venue": "Blue Note",
    "room": "",
    "title": "Digable Planets",
@@ -2937,7 +2909,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/digable-planets-london-18-12-2026/event/230065149F3F0A2B",
-   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets-4/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -2956,7 +2928,7 @@
    "first_seen": ""
   },
   {
-   "id": "3f5932282b3a",
+   "id": "1ce0f09a8dab",
    "venue": "Blue Note",
    "room": "",
    "title": "Digable Planets",
@@ -2965,7 +2937,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/digable-planets-london-19-12-2026/event/230065149F410A2E",
-   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets-4/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -2984,7 +2956,7 @@
    "first_seen": ""
   },
   {
-   "id": "e220cac52264",
+   "id": "cc0b51e41996",
    "venue": "Blue Note",
    "room": "",
    "title": "Digable Planets",
@@ -2993,7 +2965,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/digable-planets-london-19-12-2026/event/230065149F440A31",
-   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets-4/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -3001,42 +2973,42 @@
    "id": "3665c4d79f4b",
    "venue": "Blue Note",
    "room": "",
-   "title": "The Brand New Heavies",
+   "title": "Brand New Heavies",
    "date": "2026-12-20",
    "time": "21:30",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-20-12-2026/event/23006504F3960E27",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-12/",
-   "unreviewed": false,
+   "unreviewed": true,
    "first_seen": ""
   },
   {
    "id": "ca1f60002250",
    "venue": "Blue Note",
    "room": "",
-   "title": "The Brand New Heavies",
+   "title": "Brand New Heavies",
    "date": "2026-12-21",
    "time": "19:00",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-21-12-2026/event/23006504F3980E2E",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-12/",
-   "unreviewed": false,
+   "unreviewed": true,
    "first_seen": ""
   },
   {
    "id": "562505d9bbae",
    "venue": "Blue Note",
    "room": "",
-   "title": "The Brand New Heavies",
+   "title": "Brand New Heavies",
    "date": "2026-12-21",
    "time": "21:30",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-21-12-2026/event/23006504F3990E31",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-12/",
-   "unreviewed": false,
+   "unreviewed": true,
    "first_seen": ""
   },
   {
@@ -3057,14 +3029,14 @@
    "id": "24e9be1f0740",
    "venue": "Blue Note",
    "room": "",
-   "title": "The Brand New Heavies",
+   "title": "Brand New Heavies",
    "date": "2026-12-22",
    "time": "19:00",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-22-12-2026/event/23006504F39B0E33",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-12/",
-   "unreviewed": false,
+   "unreviewed": true,
    "first_seen": ""
   },
   {
@@ -3085,18 +3057,18 @@
    "id": "ed24160f190e",
    "venue": "Blue Note",
    "room": "",
-   "title": "The Brand New Heavies",
+   "title": "Brand New Heavies",
    "date": "2026-12-22",
    "time": "21:30",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-22-12-2026/event/23006504F39C0E35",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-12/",
-   "unreviewed": false,
+   "unreviewed": true,
    "first_seen": ""
   },
   {
-   "id": "d83c705726f3",
+   "id": "1789814603ff",
    "venue": "Blue Note",
    "room": "",
    "title": "Joel Culpepper",
@@ -3105,12 +3077,12 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/joel-culpepper-london-23-12-2026/event/23006538D3540FAE",
-   "info": "https://www.bluenotejazz.com/london/tm-event/joel-culpepper/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/joel-culpepper-2/",
    "unreviewed": false,
    "first_seen": "2026-10-02"
   },
   {
-   "id": "c8ecb533fee1",
+   "id": "11ee6c2cf7a6",
    "venue": "Blue Note",
    "room": "",
    "title": "Joel Culpepper",
@@ -3119,7 +3091,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/joel-culpepper-london-23-12-2026/event/23006538D3560FB0",
-   "info": "https://www.bluenotejazz.com/london/tm-event/joel-culpepper/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/joel-culpepper-2/",
    "unreviewed": false,
    "first_seen": "2026-10-02"
   },
@@ -3460,7 +3432,7 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "d35d6979e153",
+   "id": "7844ee31645a",
    "venue": "Blue Note",
    "room": "",
    "title": "Brandee Younger",
@@ -3469,7 +3441,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brandee-younger-london-06-01-2027/event/23006547B7230E88",
-   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger/",
    "unreviewed": false,
    "first_seen": "2026-10-13"
   },
@@ -3502,7 +3474,7 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "9741a2de9baf",
+   "id": "e58bf6bb4d5b",
    "venue": "Blue Note",
    "room": "",
    "title": "Brandee Younger",
@@ -3511,7 +3483,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brandee-younger-london-06-01-2027/event/23006547B7240E97",
-   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger/",
    "unreviewed": false,
    "first_seen": "2026-10-13"
   },
@@ -3530,7 +3502,7 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "5e2009a37b60",
+   "id": "ba8d40214788",
    "venue": "Blue Note",
    "room": "",
    "title": "Brandee Younger",
@@ -3539,9 +3511,9 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brandee-younger-london-07-01-2027/event/23006504C2330A7F",
-   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger/",
    "unreviewed": false,
-   "first_seen": "2026-10-13"
+   "first_seen": ""
   },
   {
    "id": "c3370333986a",
@@ -3558,7 +3530,7 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "a8cdf544bf6f",
+   "id": "0e0011e37511",
    "venue": "Blue Note",
    "room": "",
    "title": "Brandee Younger",
@@ -3567,9 +3539,9 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brandee-younger-london-07-01-2027/event/23006504C2360A82",
-   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger/",
    "unreviewed": false,
-   "first_seen": "2026-10-13"
+   "first_seen": ""
   },
   {
    "id": "589c797f74c8",
@@ -4076,21 +4048,21 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "e9d6de5b0758",
+   "id": "fc1e795ec720",
    "venue": "Jazz Cafe",
    "room": "Spiritual Jazz Meets Afrobeat",
    "title": "Àbáse",
    "date": "2027-02-25",
-   "time": "19:00",
+   "time": "",
    "status": "available",
    "note": "",
    "url": "https://thejazzcafe.com/event/abase/",
    "info": "https://thejazzcafe.com/event/abase/",
    "unreviewed": false,
-   "first_seen": "2026-09-28"
+   "first_seen": ""
   },
   {
-   "id": "64e3ceddf16f",
+   "id": "80192fa23a2b",
    "venue": "Blue Note",
    "room": "",
    "title": "Keyon Harrold",
@@ -4099,12 +4071,12 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/keyon-harrold-london-27-02-2027/event/23006505924408F8",
-   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold-2/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold/",
    "unreviewed": false,
    "first_seen": "2026-10-02"
   },
   {
-   "id": "b16e43573a2d",
+   "id": "68309308ac25",
    "venue": "Blue Note",
    "room": "",
    "title": "Keyon Harrold",
@@ -4113,12 +4085,12 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/keyon-harrold-london-27-02-2027/event/23006505924608FA",
-   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold-2/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold/",
    "unreviewed": false,
    "first_seen": "2026-10-02"
   },
   {
-   "id": "6f0dc8f4646e",
+   "id": "1825f4e7bafb",
    "venue": "Blue Note",
    "room": "",
    "title": "Keyon Harrold",
@@ -4127,12 +4099,12 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/keyon-harrold-london-28-02-2027/event/23006505924808FC",
-   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold-2/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold/",
    "unreviewed": false,
    "first_seen": "2026-10-02"
   },
   {
-   "id": "d5e4145a5430",
+   "id": "772bc8a5ac01",
    "venue": "Blue Note",
    "room": "",
    "title": "Keyon Harrold",
@@ -4141,7 +4113,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/keyon-harrold-london-28-02-2027/event/23006505924A08FF",
-   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold-2/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/keyon-harrold/",
    "unreviewed": false,
    "first_seen": "2026-10-02"
   },
@@ -4328,6 +4300,6 @@
    "first_seen": "2026-10-11"
   }
  ],
- "checked_shows": 494,
- "pending_ig": 7
+ "checked_shows": 483,
+ "pending_ig": 17
 }
