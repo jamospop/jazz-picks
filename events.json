@@ -1,34 +1,6 @@
 {
- "updated": "2026-10-20T08:44",
+ "updated": "2026-10-21T08:37",
  "picks": [
-  {
-   "id": "7e1386bcf522",
-   "venue": "Blue Note",
-   "room": "",
-   "title": "Masego",
-   "date": "2026-10-21",
-   "time": "19:00",
-   "status": "available",
-   "note": "",
-   "url": "https://www.ticketmaster.co.uk/masego-london-21-10-2026/event/23006530DCDB1E90",
-   "info": "https://www.bluenotejazz.com/london/tm-event/masego-2/",
-   "unreviewed": false,
-   "first_seen": "2026-10-02"
-  },
-  {
-   "id": "3d0c3bcf6d24",
-   "venue": "Blue Note",
-   "room": "",
-   "title": "Masego",
-   "date": "2026-10-21",
-   "time": "21:30",
-   "status": "available",
-   "note": "",
-   "url": "https://www.ticketmaster.co.uk/masego-london-21-10-2026/event/23006530DD8A1EA9",
-   "info": "https://www.bluenotejazz.com/london/tm-event/masego-2/",
-   "unreviewed": false,
-   "first_seen": "2026-10-02"
-  },
   {
    "id": "baf11149a214",
    "venue": "Ronnie Scott's",
@@ -156,7 +128,7 @@
    "first_seen": "2026-10-02"
   },
   {
-   "id": "341260293ace",
+   "id": "494027b73195",
    "venue": "Blue Note",
    "room": "",
    "title": "Mahalia",
@@ -165,7 +137,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/mahalia-london-25-10-2026/event/2300654CE7CC13F8",
-   "info": "https://www.bluenotejazz.com/london/tm-event/mahalia-2/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/mahalia/",
    "unreviewed": false,
    "first_seen": "2026-10-15"
   },
@@ -184,7 +156,7 @@
    "first_seen": ""
   },
   {
-   "id": "773f639087e6",
+   "id": "3cf277672183",
    "venue": "Blue Note",
    "room": "",
    "title": "Mahalia",
@@ -193,7 +165,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/mahalia-london-25-10-2026/event/2300654CE7CD13FA",
-   "info": "https://www.bluenotejazz.com/london/tm-event/mahalia-2/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/mahalia/",
    "unreviewed": false,
    "first_seen": "2026-10-15"
   },
@@ -240,18 +212,18 @@
    "first_seen": ""
   },
   {
-   "id": "87cfedd5a5e3",
-   "venue": "Jazz Cafe",
-   "room": "Improv Jazz & Poetry Showcase",
-   "title": "SpitNights Residency",
-   "date": "2026-10-27",
-   "time": "",
+   "id": "e7f9b296a501",
+   "venue": "Ronnie Scott's",
+   "room": "Late Late Show",
+   "title": "Ronnie Scott's Jazz Jam",
+   "date": "2026-10-26",
+   "time": "23:15",
    "status": "available",
    "note": "",
-   "url": "https://thejazzcafe.com/event/spitnights-residency-4/",
-   "info": "https://thejazzcafe.com/event/spitnights-residency-4/",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
    "unreviewed": false,
-   "first_seen": "2026-10-20"
+   "first_seen": "2026-10-21"
   },
   {
    "id": "2b2d786a014b",
@@ -394,7 +366,7 @@
    "first_seen": ""
   },
   {
-   "id": "552b15d66064",
+   "id": "92dba793664c",
    "venue": "Blue Note",
    "room": "",
    "title": "Laura Mvula",
@@ -403,7 +375,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/laura-mvula-london-29-10-2026/event/2300650EBD3BF79F",
-   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-3/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -436,7 +408,7 @@
    "first_seen": ""
   },
   {
-   "id": "ec75533f5755",
+   "id": "0e885e534215",
    "venue": "Blue Note",
    "room": "",
    "title": "Laura Mvula",
@@ -445,7 +417,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/laura-mvula-london-29-10-2026/event/2300650EFB61E3AC",
-   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-3/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -492,7 +464,7 @@
    "first_seen": ""
   },
   {
-   "id": "94bb512414ce",
+   "id": "d45c3ee0c8ac",
    "venue": "Blue Note",
    "room": "",
    "title": "Laura Mvula",
@@ -501,7 +473,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/laura-mvula-london-30-10-2026/event/2300650EFB63E3BC",
-   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-3/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -520,7 +492,7 @@
    "first_seen": "2026-10-01"
   },
   {
-   "id": "574cc08e8843",
+   "id": "b65c490d9ba3",
    "venue": "Blue Note",
    "room": "",
    "title": "Laura Mvula",
@@ -529,7 +501,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/laura-mvula-london-30-10-2026/event/2300650EFB65E3C8",
-   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/laura-mvula-3/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -842,7 +814,7 @@
    "first_seen": ""
   },
   {
-   "id": "ed3fb60bbde8",
+   "id": "09f22aeff2e0",
    "venue": "Blue Note",
    "room": "",
    "title": "Yazmin Lacey",
@@ -851,7 +823,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/yazmin-lacey-london-05-11-2026/event/23006524BB109B3A",
-   "info": "https://www.bluenotejazz.com/london/tm-event/yazmin-lacey-2/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/yazmin-lacey/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -1178,6 +1150,20 @@
    "first_seen": ""
   },
   {
+   "id": "68072c71cee4",
+   "venue": "Ronnie Scott's",
+   "room": "Late Late Show",
+   "title": "Ronnie Scott's Jazz Jam",
+   "date": "2026-11-16",
+   "time": "23:15",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "cbf592c348b3",
    "venue": "Blue Note",
    "room": "",
@@ -1428,6 +1414,20 @@
    "info": "https://www.bluenotejazz.com/london/tm-event/adekunle-gold-2/",
    "unreviewed": false,
    "first_seen": "2026-10-02"
+  },
+  {
+   "id": "cbb2734f40c8",
+   "venue": "Ronnie Scott's",
+   "room": "Late Late Show",
+   "title": "Ronnie Scott's Jazz Jam",
+   "date": "2026-11-23",
+   "time": "21:15",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
   },
   {
    "id": "5ad448bfd62e",
@@ -1850,6 +1850,20 @@
    "first_seen": ""
   },
   {
+   "id": "5f4dac39d542",
+   "venue": "Ronnie Scott's",
+   "room": "Late Late Show",
+   "title": "Ronnie Scott's Jazz Jam",
+   "date": "2026-11-30",
+   "time": "23:15",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "1d14f260562f",
    "venue": "Ronnie Scott's",
    "room": "Main Show",
@@ -2256,6 +2270,20 @@
    "first_seen": ""
   },
   {
+   "id": "24a2faf94a65",
+   "venue": "Ronnie Scott's",
+   "room": "Late Late Show",
+   "title": "Ronnie Scott's Jazz Jam",
+   "date": "2026-12-07",
+   "time": "23:15",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "e4e739478338",
    "venue": "Blue Note",
    "room": "",
@@ -2497,18 +2525,18 @@
    "id": "94879605cbc3",
    "venue": "Blue Note",
    "room": "",
-   "title": "Brand New Heavies",
+   "title": "The Brand New Heavies",
    "date": "2026-12-13",
    "time": "21:30",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-13-12-2026/event/23006504E2470DDA",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-6/",
-   "unreviewed": true,
+   "unreviewed": false,
    "first_seen": ""
   },
   {
-   "id": "17549f6f6abd",
+   "id": "e37b6c6c5289",
    "venue": "Blue Note",
    "room": "",
    "title": "Brand New Heavies",
@@ -2517,7 +2545,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-14-12-2026/event/23006504E2490DDC",
-   "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-6/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-3/",
    "unreviewed": true,
    "first_seen": ""
   },
@@ -2525,42 +2553,56 @@
    "id": "4f0ce0245c84",
    "venue": "Blue Note",
    "room": "",
-   "title": "Brand New Heavies",
+   "title": "The Brand New Heavies",
    "date": "2026-12-14",
    "time": "21:30",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-14-12-2026/event/23006504E24B0DE0",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-6/",
-   "unreviewed": true,
+   "unreviewed": false,
    "first_seen": ""
+  },
+  {
+   "id": "89319c91a916",
+   "venue": "Ronnie Scott's",
+   "room": "Late Late Show",
+   "title": "Ronnie Scott's Jazz Jam",
+   "date": "2026-12-14",
+   "time": "23:15",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
   },
   {
    "id": "c60f5161bdef",
    "venue": "Blue Note",
    "room": "",
-   "title": "Brand New Heavies",
+   "title": "The Brand New Heavies",
    "date": "2026-12-15",
    "time": "19:00",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-15-12-2026/event/23006504E24D0DE5",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-6/",
-   "unreviewed": true,
+   "unreviewed": false,
    "first_seen": ""
   },
   {
    "id": "d350471242f5",
    "venue": "Blue Note",
    "room": "",
-   "title": "Brand New Heavies",
+   "title": "The Brand New Heavies",
    "date": "2026-12-15",
    "time": "21:30",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-15-12-2026/event/23006504E2500DEB",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-6/",
-   "unreviewed": true,
+   "unreviewed": false,
    "first_seen": ""
   },
   {
@@ -2576,6 +2618,20 @@
    "info": "https://www.ronniescotts.co.uk/find-a-show/late-late-show-with-vula-friends",
    "unreviewed": false,
    "first_seen": "2026-10-10"
+  },
+  {
+   "id": "304168bf7354",
+   "venue": "Ronnie Scott's",
+   "room": "Late Late Show Upstairs",
+   "title": "Late Late Show Upstairs with Happy Garden",
+   "date": "2026-12-15",
+   "time": "23:15",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/happy-garden",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/happy-garden",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
   },
   {
    "id": "69482165e738",
@@ -2690,7 +2746,7 @@
    "first_seen": ""
   },
   {
-   "id": "62cb87547f63",
+   "id": "a24e792b13b7",
    "venue": "Blue Note",
    "room": "",
    "title": "Digable Planets",
@@ -2699,7 +2755,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/digable-planets-london-18-12-2026/event/230065149F3E0A26",
-   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -2732,7 +2788,7 @@
    "first_seen": ""
   },
   {
-   "id": "61856dc0f393",
+   "id": "954986ac87b9",
    "venue": "Blue Note",
    "room": "",
    "title": "Digable Planets",
@@ -2741,7 +2797,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/digable-planets-london-18-12-2026/event/230065149F3F0A2B",
-   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -2760,7 +2816,7 @@
    "first_seen": ""
   },
   {
-   "id": "1ce0f09a8dab",
+   "id": "c3cc18c145c5",
    "venue": "Blue Note",
    "room": "",
    "title": "Digable Planets",
@@ -2769,7 +2825,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/digable-planets-london-19-12-2026/event/230065149F410A2E",
-   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -2788,7 +2844,7 @@
    "first_seen": ""
   },
   {
-   "id": "cc0b51e41996",
+   "id": "4d10edefaf32",
    "venue": "Blue Note",
    "room": "",
    "title": "Digable Planets",
@@ -2797,7 +2853,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/digable-planets-london-19-12-2026/event/230065149F440A31",
-   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets-4/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/digable-planets-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -2805,42 +2861,42 @@
    "id": "3665c4d79f4b",
    "venue": "Blue Note",
    "room": "",
-   "title": "Brand New Heavies",
+   "title": "The Brand New Heavies",
    "date": "2026-12-20",
    "time": "21:30",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-20-12-2026/event/23006504F3960E27",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-12/",
-   "unreviewed": true,
+   "unreviewed": false,
    "first_seen": ""
   },
   {
    "id": "ca1f60002250",
    "venue": "Blue Note",
    "room": "",
-   "title": "Brand New Heavies",
+   "title": "The Brand New Heavies",
    "date": "2026-12-21",
    "time": "19:00",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-21-12-2026/event/23006504F3980E2E",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-12/",
-   "unreviewed": true,
+   "unreviewed": false,
    "first_seen": ""
   },
   {
    "id": "562505d9bbae",
    "venue": "Blue Note",
    "room": "",
-   "title": "Brand New Heavies",
+   "title": "The Brand New Heavies",
    "date": "2026-12-21",
    "time": "21:30",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-21-12-2026/event/23006504F3990E31",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-12/",
-   "unreviewed": true,
+   "unreviewed": false,
    "first_seen": ""
   },
   {
@@ -2858,17 +2914,31 @@
    "first_seen": ""
   },
   {
+   "id": "88d0d47c0b0b",
+   "venue": "Ronnie Scott's",
+   "room": "Late Late Show",
+   "title": "Ronnie Scott's Jazz Jam",
+   "date": "2026-12-21",
+   "time": "23:15",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "24e9be1f0740",
    "venue": "Blue Note",
    "room": "",
-   "title": "Brand New Heavies",
+   "title": "The Brand New Heavies",
    "date": "2026-12-22",
    "time": "19:00",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-22-12-2026/event/23006504F39B0E33",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-12/",
-   "unreviewed": true,
+   "unreviewed": false,
    "first_seen": ""
   },
   {
@@ -2889,14 +2959,14 @@
    "id": "ed24160f190e",
    "venue": "Blue Note",
    "room": "",
-   "title": "Brand New Heavies",
+   "title": "The Brand New Heavies",
    "date": "2026-12-22",
    "time": "21:30",
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brand-new-heavies-london-22-12-2026/event/23006504F39C0E35",
    "info": "https://www.bluenotejazz.com/london/tm-event/the-brand-new-heavies-12/",
-   "unreviewed": true,
+   "unreviewed": false,
    "first_seen": ""
   },
   {
@@ -3038,6 +3108,20 @@
    "info": "https://thejazzcafe.com/event/the-afrobeats-orchestra-9/",
    "unreviewed": false,
    "first_seen": "2026-10-06"
+  },
+  {
+   "id": "b638e40f9062",
+   "venue": "Ronnie Scott's",
+   "room": "Late Late Show",
+   "title": "Ronnie Scott's Jazz Jam",
+   "date": "2026-12-28",
+   "time": "23:15",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
   },
   {
    "id": "6a75a767cab4",
@@ -3278,7 +3362,7 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "7844ee31645a",
+   "id": "d35d6979e153",
    "venue": "Blue Note",
    "room": "",
    "title": "Brandee Younger",
@@ -3287,7 +3371,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brandee-younger-london-06-01-2027/event/23006547B7230E88",
-   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger-4/",
    "unreviewed": false,
    "first_seen": "2026-10-13"
   },
@@ -3320,7 +3404,7 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "e58bf6bb4d5b",
+   "id": "9741a2de9baf",
    "venue": "Blue Note",
    "room": "",
    "title": "Brandee Younger",
@@ -3329,7 +3413,7 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brandee-younger-london-06-01-2027/event/23006547B7240E97",
-   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger-4/",
    "unreviewed": false,
    "first_seen": "2026-10-13"
   },
@@ -3348,7 +3432,7 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "ba8d40214788",
+   "id": "5e2009a37b60",
    "venue": "Blue Note",
    "room": "",
    "title": "Brandee Younger",
@@ -3357,9 +3441,9 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brandee-younger-london-07-01-2027/event/23006504C2330A7F",
-   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger-4/",
    "unreviewed": false,
-   "first_seen": ""
+   "first_seen": "2026-10-13"
   },
   {
    "id": "c3370333986a",
@@ -3376,7 +3460,7 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "0e0011e37511",
+   "id": "a8cdf544bf6f",
    "venue": "Blue Note",
    "room": "",
    "title": "Brandee Younger",
@@ -3385,9 +3469,9 @@
    "status": "available",
    "note": "",
    "url": "https://www.ticketmaster.co.uk/brandee-younger-london-07-01-2027/event/23006504C2360A82",
-   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger/",
+   "info": "https://www.bluenotejazz.com/london/tm-event/brandee-younger-4/",
    "unreviewed": false,
-   "first_seen": ""
+   "first_seen": "2026-10-13"
   },
   {
    "id": "589c797f74c8",
@@ -3432,18 +3516,18 @@
    "first_seen": "2026-10-14"
   },
   {
-   "id": "eade2162b381",
+   "id": "819cf2295b46",
    "venue": "Jazz Cafe",
    "room": "Iconic Art-Rock Retold",
    "title": "In Rainbows (20th Anniversary)",
    "date": "2027-01-11",
-   "time": "19:00",
+   "time": "",
    "status": "available",
    "note": "",
    "url": "https://thejazzcafe.com/event/in-rainbows-20th-anniversary/",
    "info": "https://thejazzcafe.com/event/in-rainbows-20th-anniversary/",
    "unreviewed": true,
-   "first_seen": "2026-10-08"
+   "first_seen": "2026-10-10"
   },
   {
    "id": "25da1494b7b7",
@@ -3460,18 +3544,18 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "243ad3b78595",
+   "id": "d2bc63615a30",
    "venue": "Jazz Cafe",
    "room": "\"The God\" of Garage",
-   "title": "Todd Edwards (All Night Long)",
+   "title": "Todd Edwards",
    "date": "2027-01-15",
    "time": "",
    "status": "available",
    "note": "",
-   "url": "https://thejazzcafe.com/event/todd-edwards-all-night-long-2/",
-   "info": "https://thejazzcafe.com/event/todd-edwards-all-night-long-2/",
+   "url": "https://thejazzcafe.com/event/todd-edwards/",
+   "info": "https://thejazzcafe.com/event/todd-edwards/",
    "unreviewed": false,
-   "first_seen": "2026-10-20"
+   "first_seen": "2026-10-21"
   },
   {
    "id": "23a83d4242ad",
@@ -3614,18 +3698,46 @@
    "first_seen": ""
   },
   {
-   "id": "de483aa668a4",
+   "id": "d1b573fa63e1",
+   "venue": "Ronnie Scott's",
+   "room": "Upstairs at Ronnie's",
+   "title": "Vanessa Haynes",
+   "date": "2027-01-30",
+   "time": "17:00",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "a8a6ae8d5585",
+   "venue": "Ronnie Scott's",
+   "room": "Upstairs at Ronnie's",
+   "title": "Vanessa Haynes",
+   "date": "2027-01-30",
+   "time": "20:15",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "18a1898e98f9",
    "venue": "Jazz Cafe",
    "room": "Contemporary Sudanese Soul",
    "title": "Sulaf",
    "date": "2027-02-02",
-   "time": "",
+   "time": "19:00",
    "status": "available",
    "note": "",
    "url": "https://thejazzcafe.com/event/sulaf/",
    "info": "https://thejazzcafe.com/event/sulaf/",
    "unreviewed": false,
-   "first_seen": "2026-10-12"
+   "first_seen": ""
   },
   {
    "id": "b3ab54b64598",
@@ -3642,18 +3754,18 @@
    "first_seen": "2026-10-11"
   },
   {
-   "id": "0f194c2ded5d",
-   "venue": "Jazz Cafe",
-   "room": "Valentine's Day Party",
-   "title": "The Egyptian Lover (Live)",
-   "date": "2027-02-12",
-   "time": "",
+   "id": "daf6511c9d89",
+   "venue": "Ronnie Scott's",
+   "room": "Late Late Show",
+   "title": "Late Late Show with Vula & Friends",
+   "date": "2027-02-11",
+   "time": "23:15",
    "status": "available",
    "note": "",
-   "url": "https://thejazzcafe.com/event/the-egyptian-lover-live-2/",
-   "info": "https://thejazzcafe.com/event/the-egyptian-lover-live-2/",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/late-late-show-with-vula-friends",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/late-late-show-with-vula-friends",
    "unreviewed": false,
-   "first_seen": "2026-10-05"
+   "first_seen": "2026-10-21"
   },
   {
    "id": "c61f69adf540",
@@ -3666,6 +3778,20 @@
    "note": "",
    "url": "https://www.ronniescotts.co.uk/find-a-show/mats-morgan-henrik",
    "info": "https://www.ronniescotts.co.uk/find-a-show/mats-morgan-henrik",
+   "unreviewed": false,
+   "first_seen": ""
+  },
+  {
+   "id": "58f7ab27a686",
+   "venue": "Jazz Cafe",
+   "room": "Valentine's Day Party",
+   "title": "The Egyptian Lover (Live)",
+   "date": "2027-02-12",
+   "time": "18:30",
+   "status": "available",
+   "note": "",
+   "url": "https://thejazzcafe.com/event/the-egyptian-lover-live-2/",
+   "info": "https://thejazzcafe.com/event/the-egyptian-lover-live-2/",
    "unreviewed": false,
    "first_seen": ""
   },
@@ -3684,20 +3810,6 @@
    "first_seen": ""
   },
   {
-   "id": "69a7471ef684",
-   "venue": "Jazz Cafe",
-   "room": "Queens of Lover's Rock",
-   "title": "Janet Kay & Carroll Thompson (Matinee Show)",
-   "date": "2027-02-14",
-   "time": "",
-   "status": "available",
-   "note": "",
-   "url": "https://thejazzcafe.com/event/janet-kay-carroll-thompson-matinee-show/",
-   "info": "https://thejazzcafe.com/event/janet-kay-carroll-thompson-matinee-show/",
-   "unreviewed": false,
-   "first_seen": "2026-10-05"
-  },
-  {
    "id": "78099f197164",
    "venue": "Jazz Cafe",
    "room": "Queens of Lover's Rock",
@@ -3712,18 +3824,32 @@
    "first_seen": "2026-10-02"
   },
   {
-   "id": "035ee2f0e965",
+   "id": "b37a39722208",
+   "venue": "Jazz Cafe",
+   "room": "Queens of Lover's Rock",
+   "title": "Janet Kay & Carroll Thompson (Matinee Show)",
+   "date": "2027-02-14",
+   "time": "16:00",
+   "status": "available",
+   "note": "",
+   "url": "https://thejazzcafe.com/event/janet-kay-carroll-thompson-matinee-show/",
+   "info": "https://thejazzcafe.com/event/janet-kay-carroll-thompson-matinee-show/",
+   "unreviewed": false,
+   "first_seen": "2026-10-02"
+  },
+  {
+   "id": "c6f67cf69b06",
    "venue": "Jazz Cafe",
    "room": "Jazz-Beat Moguls",
    "title": "The Herbaliser Band",
    "date": "2027-02-16",
-   "time": "",
+   "time": "19:00",
    "status": "available",
    "note": "",
    "url": "https://thejazzcafe.com/event/the-herbaliser-band-2/",
    "info": "https://thejazzcafe.com/event/the-herbaliser-band-2/",
    "unreviewed": false,
-   "first_seen": "2026-10-05"
+   "first_seen": ""
   },
   {
    "id": "2966d27d45e4",
@@ -3754,6 +3880,20 @@
    "first_seen": ""
   },
   {
+   "id": "591d963c2e37",
+   "venue": "Ronnie Scott's",
+   "room": "Upstairs at Ronnie's",
+   "title": "Vanessa Haynes",
+   "date": "2027-02-18",
+   "time": "17:00",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "6c6a62c881b0",
    "venue": "Ronnie Scott's",
    "room": "Main Show",
@@ -3766,6 +3906,20 @@
    "info": "https://www.ronniescotts.co.uk/find-a-show/max-beesley",
    "unreviewed": false,
    "first_seen": ""
+  },
+  {
+   "id": "fd7ac00f9502",
+   "venue": "Ronnie Scott's",
+   "room": "Upstairs at Ronnie's",
+   "title": "Vanessa Haynes",
+   "date": "2027-02-18",
+   "time": "20:15",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
   },
   {
    "id": "2cc4c79d3cdd",
@@ -3796,18 +3950,18 @@
    "first_seen": ""
   },
   {
-   "id": "714a36829fc1",
+   "id": "73785c9dcda0",
    "venue": "Jazz Cafe",
    "room": "The Sound That Shaped a Generation",
    "title": "Northern Soul Live",
    "date": "2027-02-20",
-   "time": "",
+   "time": "18:30",
    "status": "available",
    "note": "",
    "url": "https://thejazzcafe.com/event/northern-soul-live-2/",
    "info": "https://thejazzcafe.com/event/northern-soul-live-2/",
    "unreviewed": false,
-   "first_seen": "2026-10-05"
+   "first_seen": ""
   },
   {
    "id": "debc32f4b1af",
@@ -3866,18 +4020,18 @@
    "first_seen": "2026-10-10"
   },
   {
-   "id": "fc1e795ec720",
+   "id": "e9d6de5b0758",
    "venue": "Jazz Cafe",
    "room": "Spiritual Jazz Meets Afrobeat",
    "title": "Àbáse",
    "date": "2027-02-25",
-   "time": "",
+   "time": "19:00",
    "status": "available",
    "note": "",
    "url": "https://thejazzcafe.com/event/abase/",
    "info": "https://thejazzcafe.com/event/abase/",
    "unreviewed": false,
-   "first_seen": ""
+   "first_seen": "2026-09-28"
   },
   {
    "id": "076143b7dccc",
@@ -3936,18 +4090,102 @@
    "first_seen": "2026-10-02"
   },
   {
-   "id": "17bbbe360745",
+   "id": "8b91a651f56b",
+   "venue": "Ronnie Scott's",
+   "room": "Main Show",
+   "title": "Itamar Borochov Quartet",
+   "date": "2027-03-02",
+   "time": "17:30",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/itamar-borochov-quartet",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/itamar-borochov-quartet",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "82053d1dc1d8",
+   "venue": "Ronnie Scott's",
+   "room": "Late Late Show",
+   "title": "Late Late Show with Vula & Friends",
+   "date": "2027-03-11",
+   "time": "23:15",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/late-late-show-with-vula-friends",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/late-late-show-with-vula-friends",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "1ca337b9d9d6",
    "venue": "Jazz Cafe",
    "room": "Hard-Funk Trio",
    "title": "The Next Movement",
    "date": "2027-03-13",
-   "time": "",
+   "time": "18:30",
    "status": "available",
    "note": "",
    "url": "https://thejazzcafe.com/event/the-next-movement/",
    "info": "https://thejazzcafe.com/event/the-next-movement/",
    "unreviewed": false,
-   "first_seen": ""
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "28f79de625ab",
+   "venue": "Ronnie Scott's",
+   "room": "Main Show",
+   "title": "Miguel Zenón & Chico Pinheiro: JOBIM at 100",
+   "date": "2027-03-17",
+   "time": "17:30",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/miguel-zenon-chico-pinheiro-jobim-100",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/miguel-zenon-chico-pinheiro-jobim-100",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "0efd2ab5aa5b",
+   "venue": "Ronnie Scott's",
+   "room": "Main Show",
+   "title": "Miguel Zenón & Chico Pinheiro: JOBIM at 100",
+   "date": "2027-03-17",
+   "time": "20:30",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/miguel-zenon-chico-pinheiro-jobim-100",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/miguel-zenon-chico-pinheiro-jobim-100",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "e723a8ccd0af",
+   "venue": "Ronnie Scott's",
+   "room": "Upstairs at Ronnie's",
+   "title": "Vanessa Haynes",
+   "date": "2027-03-18",
+   "time": "17:00",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "e184de0fa1ac",
+   "venue": "Ronnie Scott's",
+   "room": "Upstairs at Ronnie's",
+   "title": "Vanessa Haynes",
+   "date": "2027-03-18",
+   "time": "20:15",
+   "status": "available",
+   "note": "",
+   "url": "https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2",
+   "info": "https://www.ronniescotts.co.uk/find-a-show/vanessa-haynes-2",
+   "unreviewed": false,
+   "first_seen": "2026-10-21"
   },
   {
    "id": "fe3635656094",
@@ -4118,6 +4356,6 @@
    "first_seen": "2026-10-11"
   }
  ],
- "checked_shows": 474,
- "pending_ig": 17
+ "checked_shows": 479,
+ "pending_ig": 6
 }
